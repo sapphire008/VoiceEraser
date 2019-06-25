@@ -1,0 +1,780 @@
+index,location,description,secs,category,CDNumber,CDName,tracknum,isCrowd,bitRate,isStereo,duration
+0,07003008.wav,Church atmosphere with crowd.,377,,EC1C4,Crowds-Interior,1,1,44100,2,375.2431746031746
+1,07003009.wav,Crowd atmosphere in Westminster Abbey with voices and footsteps.,404,,EC1C4,Crowds-Interior,2,1,44100,2,402.55442176870747
+2,07003029.wav,"London Airport. Ground floor. Terminal III, lively acoustic, feet, voices, movement, indistinc tannoy",365,,EC1C9,Crowds: Interior- London Airport,1,1,44100,2,365.32
+3,07003030.wav,"London Airport: First floor lounge, terminal III & occasional tannoy",373,London: London Airport: First floor lounge,EC1C9,Crowds: Interior- London Airport,2,1,44100,2,372.3333333333333
+4,07003043.wav,"Old Vic: Quiet audience, people entering auditorium with some noise from bars. (Tehnical note for use 2+ low level)",212,Theatres: Old Vic,EC1C13,Theatre Crowds,1,1,44100,2,212.14666666666668
+5,07003044.wav,"Old Vic: Busy speech whilst audience take their seats, full house",236,Theatres: Old Vic,EC1C13,Theatre Crowds,2,1,44100,2,236.2
+6,07003045.wav,"Old Vic: Applause at end of act, interval chatter.",63,Theatres: Old Vic,EC1C13,Theatre Crowds,3,1,44100,2,62.72
+7,07003046.wav,Old Vic: Audience laughter in a theatre.,6,Theatres: Old Vic,EC1C13,Theatre Crowds,4,1,44100,2,6.0
+8,07003047.wav,Old Vic: Audience laughter in a theatre.,6,Theatres: Old Vic,EC1C13,Theatre Crowds,5,1,44100,2,6.0
+9,07003048.wav,Old Vic: Audience laughter in a theatre.,6,Theatres: Old Vic,EC1C13,Theatre Crowds,6,1,44100,2,6.0
+10,07003049.wav,Old Vic: Audience laughter in a theatre.,6,Theatres: Old Vic,EC1C13,Theatre Crowds,7,1,44100,2,6.0
+11,07003050.wav,"Old Vic: Final applause, audience leave theatre.",282,Theatres: Old Vic,EC1C13,Theatre Crowds,8,1,44100,2,282.70666666666665
+12,07003053.wav,"Laughter and applause. (Recorded in Broadcasting House Concert Hall, London)",12,,EC1C15,Crowds: Interior,1,1,44100,2,11.386666666666667
+13,07003054.wav,"Laughter and applause. (Recorded in Broadcasting House Concert Hall, London)",25,,EC1C15,Crowds: Interior,2,1,44100,2,25.093333333333334
+14,07003055.wav,"Little laughter. (Recorded in Broadcasting House Concert Hall, London)",6,,EC1C15,Crowds: Interior,3,1,44100,2,6.0
+15,07003056.wav,"Laughter. (Recorded in Broadcasting House Concert Hall, London)",6,,EC1C15,Crowds: Interior,4,1,44100,2,6.1466666666666665
+16,07003057.wav,"Laughter & applause. (Recorded in Broadcasting House Concert Hall, London)",28,,EC1C15,Crowds: Interior,5,1,44100,2,28.493333333333332
+17,07003058.wav,"Sound of audience leaving auditorium. (Recorded in Broadcasting House Concert Hall, London)",197,,EC1C15,Crowds: Interior,6,1,44100,2,196.56
+18,07003059.wav,"Audience murmur (Recorded in Broadcasting House Concert Hall, London)",386,,EC1C15,Crowds: Interior,7,1,44100,2,384.3333333333333
+19,07003067.wav,Atmosphere in a large cafeteria at London Zoo. Mixed crowd & children,368,,EC1C17,Crowds: Interior,1,1,44100,2,367.50666666666666
+20,07003068.wav,Atmosphere in reptile house at London Zoo. Children,365,,EC1C17,Crowds: Interior,2,1,44100,2,364.81333333333333
+21,07003069.wav,Crowd atmosphere in a busy museum.,381,,EC1C18,Crowds: Interior,1,1,44100,2,380.81333333333333
+22,07003070.wav,Crowd atmosphere in an exhibition hall.,372,,EC1C18,Crowds: Interior,2,1,44100,2,372.49333333333334
+23,07003073.wav,"Big top crowd atmosphere, mainly indistinct speech with generator in background.",393,,EC1C20,Circus,1,1,44100,2,392.49333333333334
+24,07003084.wav,"Atmosphere in crowded tea marquee. (Technical note, for use at low level)",394,,EC1C23,Atmospheres,1,1,44100,2,393.8
+25,07003086.wav,Crowd arrives for meeting in hall.,392,,EC1C24,Meeting,1,1,44100,2,392.04
+26,07003092.wav,"Woolworths: Crowds and manual cash registers, ",395,Shops: Woolworths,EC1C26,Shops: Supermarket,3,1,44100,2,394.92
+27,07003093.wav,Crowd in hamburger fast food store.,394,,EC1C27,Crowds: Interior,1,1,44100,2,394.46666666666664
+28,07003094.wav,Subdued crowd in abbey.,394,,EC1C27,Crowds: Interior,2,1,44100,2,393.82666666666665
+29,07003095.wav,Mixed crowd in hotel foyer.,393,,EC1C28,Crowds,1,1,44100,2,392.70666666666665
+30,07003096.wav,Political Party Conference: Applause,16,Political Party Conference,EC1C28,Crowds,2,1,44100,2,16.226666666666667
+31,07003097.wav,Political Party Conference: Applause,10,Political Party Conference,EC1C28,Crowds,3,1,44100,2,10.026666666666667
+32,07003098.wav,Political Party Conference: Applause,12,Political Party Conference,EC1C28,Crowds,4,1,44100,2,12.173333333333334
+33,07003099.wav,Political Party Conference: Applause,13,Political Party Conference,EC1C28,Crowds,5,1,44100,2,12.346666666666666
+34,07003100.wav,Political Party Conference: Applause,17,Political Party Conference,EC1C28,Crowds,6,1,44100,2,17.106666666666666
+35,07003101.wav,Political Party Conference: Applause,19,Political Party Conference,EC1C28,Crowds,7,1,44100,2,19.293333333333333
+36,07003102.wav,Crowds in large entrance hall with turnstiles.,446,,EC1C29,Crowds: Interior,1,1,44100,2,446.06666666666666
+37,07003103.wav,"Crowds in large entrance hall, with turnstiles at close perspective.",412,,EC1C29,Crowds: Interior,2,1,44100,2,412.05333333333334
+38,07003104.wav,Large exhibition hall with occasional indistinct music and P.A.,371,,EC1C30,Crowds: Interior,1,1,44100,2,371.32
+39,07003105.wav,Large hall with jumble sale.,383,,EC1C30,Crowds: Interior,2,1,44100,2,382.48
+40,07003106.wav,Playhouse Theatre: Applause.,10,Playhouse Theatre: Applause,EC1C60,Crowds: Interior,1,1,44100,2,10.213333333333333
+41,07003107.wav,Playhouse Theatre: Laughter and applause.,10,Playhouse Theatre: Laughter and applause,EC1C60,Crowds: Interior,2,1,44100,2,9.52
+42,07003108.wav,Playhouse Theatre: Laughter.,8,Playhouse Theatre: Laughter,EC1C60,Crowds: Interior,3,1,44100,2,8.253333333333334
+43,07003109.wav,Playhouse Theatre: Laughter and applause.,13,Playhouse Theatre: Laughter and applause,EC1C60,Crowds: Interior,4,1,44100,2,13.106666666666667
+44,07003110.wav,Playhouse Theatre: Applause.,10,Playhouse Theatre: Applause,EC1C60,Crowds: Interior,5,1,44100,2,10.16
+45,07003111.wav,Playhouse Theatre: Applause.,9,Playhouse Theatre: Applause,EC1C60,Crowds: Interior,6,1,44100,2,9.093333333333334
+46,07003112.wav,Playhouse Theatre: English & French audience chatter,392,Playhouse Theatre,EC1C60,Crowds: Interior,7,1,44100,2,389.3466666666667
+47,07005086.wav,Crowd panic and rush for exits. (Specially created effect),21,,EC7E,Comedy Sounds,7,1,44100,2,19.932108843537414
+48,07005123.wav,Crowd panic. (Specially created effect),21,,EC7H,Comedy Sounds,8,1,44100,2,20.257142857142856
+49,07005183.wav,Small crowd in London suburban pub.,356,,EC9B,Public Houses,1,1,44100,2,354.59079365079367
+50,07005184.wav,Medium-sized crowd in London suburban pub.,364,,EC9B,Public Houses,2,1,44100,2,362.6960090702948
+51,07006133.wav,"London Stock Exchange, atmosphere on floor during trading.",389,,EC37G,Indoor Crowds,1,1,44100,2,386.561179138322
+52,07006134.wav,"Birmingham Stock Exchange, atmosphere on floor during trading.",162,,EC37G,Indoor Crowds,2,1,44100,2,160.3436961451247
+53,07006135.wav,Large crowd murmuring in a large room with echo.,204,,EC37G,Indoor Crowds,3,1,44100,2,202.452947845805
+54,07008087.wav,Large German crowd cheering. (From 78rpm record),63,,EC500T,World War II: Nau Crowd,1,1,44100,2,60.6249433106576
+55,07008088.wav,"Large German crowd cheering and shouting ""Sieg Heil"". (From 78rpm record)",180,,EC500T,World War II: Nau Crowd,2,1,44100,2,178.02993197278911
+56,07008089.wav,"Goosestep marching, with orders in German. (From 78 rpm record)",41,,EC500T,World War II: Nau Crowd,3,1,44100,2,39.02
+57,07008090.wav,"Goosestep marching, with orders in German. (From 78 rmp record)",20,,EC500T,World War II: Nau Crowd,4,1,44100,2,18.52
+58,07008091.wav,"Large German crowd shouting ""Sieg heil"". (From 78 rpm record)",73,,EC500T,World War II: Nau Crowd,5,1,44100,2,71.24
+59,07008092.wav,"Large German crowd shouting ""Sieg Heil"". (From 78rpm record)",40,,EC500T,World War II: Nau Crowd,6,1,44100,2,38.88
+60,07008093.wav,Large German crowd cheering. (From 78 rpm record),60,,EC500T,World War II: Nau Crowd,7,1,44100,2,58.18
+61,07008094.wav,Large German crowd cheering and shouting slogan. (From 78 rpm record),68,,EC500T,World War II: Nau Crowd,8,1,44100,2,66.66
+62,07008102.wav,Tank procession with crowds cheering. World War II. (From 78 rpm record),80,,EC500U,Tanks: World War II,8,1,44100,2,78.23873015873016
+63,07013061.wav,"Football League match in progress, crowd reaction. (Selhurst Park, Crystal Palace FC.)",362,,EC33A,Crowds At Rugby Football Match,1,1,44100,2,360.0948752834467
+64,07013062.wav,"Rugby union match in progress, crowd reaction with some quiet periods. (Twickenham Stadium.)",360,,EC33A,Crowds At Rugby Football Match,2,1,44100,2,358.57560090702947
+65,07013063.wav,"German association football match in progress, crowd reaction with whistles and horns. (Participating team and location unknown.)",363,,EC33B,Sports Crowd,1,1,44100,2,361.1695238095238
+66,07013064.wav,Sports crowd at German sports meeting. (Location unknown.),363,,EC33B,Sports Crowd,2,1,44100,2,361.4904308390023
+67,07013065.wav,"Football League match , crowd of 20,000 before kick-off.",179,,EC33C,Professional League Football,1,1,44100,2,177.2077551020408
+68,07013066.wav,"Football League match, half-time whistle and crowd reaction.",200,,EC33C,Professional League Football,2,1,44100,2,198.02
+69,07013067.wav,"Football League match, final whistle and crowd disperses.",359,,EC33C,Professional League Football,3,1,44100,2,357.3
+70,07013072.wav,"Football League match, whistle, angry crowd.",29,,EC33D,Professional League Football,5,1,44100,2,27.3
+71,07013075.wav,"Local football match, small enthusiastic crowd.",402,,EC33E,Local Football Match,1,1,44100,2,400.08
+72,07013077.wav,"Local football match, end of match with cheers and dispersal of crowd.",105,,EC33E,Local Football Match,3,1,44100,2,103.62
+73,07013078.wav,"Local football match, angry crowd.",21,,EC33E,Local Football Match,4,1,44100,2,19.42
+74,07013090.wav,"1966 F.A. Cup final, general atmosphere with constant crowd background and highlights. (Everton v Sheffield Wednesday, Wembley Stadium.)",401,,EC33G,"F.A. Cup Final: Wembley, 1966",2,1,44100,2,399.88
+75,07013098.wav,"1966 F.A. Cup Final, frustrated crowd. (Everton v Sheffield Wednesday, Wembley Stadium.)",47,,EC33H,"F.A. Cup Final: Wembley, 1966",8,1,44100,2,45.94004535147392
+76,07015003.wav,"Beirut vegetable market, busy crowd atmosphere with stall holders' cries.",227,,EC51B,Middle East Crowds,1,1,44100,2,225.03428571428572
+77,07015004.wav,"Beirut restaurant, indistinct speech with crockery sounds.",210,,EC51B,Middle East Crowds,2,1,44100,2,208.66
+78,07015005.wav,"Beirut fruit market, busy crowd atmosphere with some distinct speech.",206,,EC51B,Middle East Crowds,3,1,44100,2,203.46
+79,07015006.wav,"Beirut clothes market, crowd atmosphere with occasional cries from stall holders.",208,,EC51B,Middle East Crowds,4,1,44100,2,205.98956916099775
+80,07015007.wav,"Vietnam, crowd at checkpoint, some birdsong.",211,,EC51C,Foreign Crowds,1,1,44100,2,209.27
+81,07015008.wav,"Vietnam, Tiger Street Market, busy crowd atmosphere.",212,,EC51C,Foreign Crowds,2,1,44100,2,209.96
+82,07015009.wav,"Macao, junk village, crowd atmosphere with occasional traffic.",213,,EC51C,Foreign Crowds,3,1,44100,2,210.88
+83,07015010.wav,"Kano, Nigeria, crowd leaving mosque, busy atmosphere with some children.",207,,EC51C,Foreign Crowds,4,1,44100,2,205.2307482993197
+84,07015011.wav,"Tangier, tourist cafe general atmosphere.",221,,EC51D,Arabic Crowds: Tangier,1,1,44100,2,218.73950113378686
+85,07015012.wav,"Tangier, tourist cafe general atmosphere.",211,,EC51D,Arabic Crowds: Tangier,2,1,44100,2,208.99337868480725
+86,07015013.wav,"Tangier, blind beggar actuality.",60,,EC51D,Arabic Crowds: Tangier,3,1,44100,2,58.19337868480726
+87,07015014.wav,"Tangier, atmosphere in fruit market.",157,,EC51D,Arabic Crowds: Tangier,4,1,44100,2,154.59337868480725
+88,07015015.wav,"Tangier, atmosphere in Casbah market.",154,,EC51D,Arabic Crowds: Tangier,5,1,44100,2,152.21514739229025
+89,07015016.wav,"Valletta, crowds promending.",394,,EC51E,Maltese Crowds,1,1,44100,2,391.8467120181406
+90,07015017.wav,"Valletta, crowds promending. with tolling bells.",393,,EC51E,Maltese Crowds,2,1,44100,2,391.4225850340136
+91,07015018.wav,"Helsinki, busy street market atmosphere with traffic.",395,,EC51F,Finnish Crowds,1,1,44100,2,391.3448752834467
+92,07015019.wav,"Helsinki, railway station atmosphere with trains arriving & departing, occasional public address.",393,,EC51F,Finnish Crowds,2,1,44100,2,390.87065759637187
+93,07015020.wav,"Israel, crowd atmosphere in cinema before performance.",202,,EC51G,Middle East Crowds,1,1,44100,2,200.11689342403628
+94,07015021.wav,"Israel, crowd atmosphere in a large communal hall.",196,,EC51G,Middle East Crowds,2,1,44100,2,193.85
+95,07015022.wav,"Cairo, atmosphere in large hall.",389,,EC51G,Middle East Crowds,3,1,44100,2,386.50111111111113
+96,07015023.wav,"Beirut, traffic & crowds with occasional cries from newspaper sellers.",403,,EC51H,Beirut (Lebanon),1,1,44100,2,401.00412698412697
+97,07015024.wav,"Beirut, busy road junction, with horns & crowd atmosphere.",402,,EC51H,Beirut (Lebanon),2,1,44100,2,400.25804988662134
+98,07015025.wav,"Barbados, exterior, general atmosphere at bus stop, with speech & traffic.",187,,EC51J,West Indian Crowds (Indoors),1,1,44100,2,184.2228117913832
+99,07015026.wav,"Barbados, exterior, street atmosphere, with traffic & voices.",183,,EC51J,West Indian Crowds (Indoors),2,1,44100,2,180.19
+100,07015027.wav,"Interior, cheerful mixed conversation, spoken in English with West Indian accent.",123,,EC51J,West Indian Crowds (Indoors),3,1,44100,2,121.24
+101,07015028.wav,"Interior, subdued mixed conversation, spoken in English with West Indian accent.",127,,EC51J,West Indian Crowds (Indoors),4,1,44100,2,124.73995464852608
+102,07015029.wav,"Interior, conversational mixed speech, spoken in English with West Indian accent.",88,,EC51J,West Indian Crowds (Indoors),5,1,44100,2,86.36410430839003
+103,07015030.wav,"Nigeria, speech with tom-tom drums.",80,,EC51K,Nigerian Crowds,1,1,44100,2,76.88414965986395
+104,07015031.wav,"Nigeria, large crowd, mixed chatter.",80,,EC51K,Nigerian Crowds,2,1,44100,2,77.35342403628118
+105,07015032.wav,"Nigeria, large mixed crowd, distant traffic. (Tom-tom drums audible from 1'20"" to end.)",193,,EC51K,Nigerian Crowds,3,1,44100,2,191.02616780045352
+106,07015033.wav,"Nigeria, large crowd cheering.",22,,EC51K,Nigerian Crowds,4,1,44100,2,20.200408163265305
+107,07015034.wav,"Nigeria, village chatter, medium-sized crowd.",80,,EC51K,Nigerian Crowds,5,1,44100,2,78.19596371882086
+108,07015035.wav,"Nigeria, village welcome, singing with tom-tom drum accompaniment.",67,,EC51K,Nigerian Crowds,6,1,44100,2,65.36
+109,07015036.wav,"Nigeria, excited crowd.",32,,EC51K,Nigerian Crowds,7,1,44100,2,29.96
+110,07015037.wav,"Lagos, native quarter with traffic & crowd atmosphere.",99,,EC51K,Nigerian Crowds,8,1,44100,2,96.98
+111,07015038.wav,"Downtown Lagos, busy traffic & crowd atmosphere",75,,EC51K,Nigerian Crowds,9,1,44100,2,72.63451247165533
+112,07015044.wav,"Ethiopia, small crowd in local cafe, distinct speech & occasional singing in Amharic & Galligna languages.",322,,EC51M,Ethiopia,3,1,44100,2,319.12172335600906
+113,07015047.wav,"Ethiopia, crowd singing & dancing with tom-tom drum accompaniment.",187,,EC51N,Ethiopia,3,1,44100,2,185.64
+114,07016238.wav,"Newbury Race Course, crowd atmosphere with commentary & results on P.A. system. (Indistinct P.A. at times.) (Flat racing.)",141,,EC53B,Horse (Flat) Racing,2,1,44100,2,139.04562358276644
+115,07016240.wav,"Newbury Race Course, crowd atmosphere with commentary on P.A. system. (""Under starters orders, they're off', race commentary & photo finish.) (Flat racing.)",119,,EC53B,Horse (Flat) Racing,4,1,44100,2,117.17560090702948
+116,07016247.wav,"Newbury Race Course, general course background with busy crowd. (Flat racing.)",393,,EC53D,Horse (Flat) Racing,1,1,44100,2,391.34401360544217
+117,07017001.wav,Chatter and footsteps on gravel.,187,,EC40A,Mixed Outdoor Crowds,1,1,44100,2,184.03027210884355
+118,07017002.wav,"Chatter and footsteps on gravel, animated.",150,,EC40A,Mixed Outdoor Crowds,2,1,44100,2,147.90031746031747
+119,07017003.wav,General chatter.,184,,EC40A,Mixed Outdoor Crowds,3,1,44100,2,182.10988662131518
+120,07017004.wav,Cheerful chatter.,186,,EC40A,Mixed Outdoor Crowds,4,1,44100,2,183.30349206349206
+121,07017005.wav,Large excited carnival crowd with frequent cheering.,337,,EC40B,Crowd In Marquee,1,1,44100,2,335.3497278911565
+122,07017006.wav,"Large crowd in marquee, indistinct busy speech.",148,,EC40B,Crowd In Marquee,2,1,44100,2,146.1078684807256
+123,07017007.wav,"Large crowd in marquee, indistinct busy speech.",215,,EC40B,Crowd In Marquee,3,1,44100,2,212.49233560090704
+124,07017008.wav,Mixed excited chatter with laughter and occasional distinct speech.,387,,EC40C,Outdoor Crowd,1,1,44100,2,385.7178004535147
+125,07017009.wav,"One hundred men, constant background of excited chatter with laughter and occasional distinct speech.",393,,EC40C,Outdoor Crowd,2,1,44100,2,391.0566893424036
+126,07017010.wav,"Large crowd of men rioting, with boos and shouts. (No gunfire.)",392,,EC40D,Mixed Outdoor Crowd,1,1,44100,2,389.14650793650793
+127,07017011.wav,"Three hundred people rioting, with boos and shouts. (No gunfire.)",363,,EC40D,Mixed Outdoor Crowd,2,1,44100,2,361.5051700680272
+128,07017012.wav,"Group of 16-19 year old boys talking, occasional pauses and footsteps.",198,,EC40E,Outdoor Crowds: Boys,1,1,44100,2,195.59142857142857
+129,07017013.wav,"Group of 16-19 year old boys talking, occasional laughter.",199,,EC40E,Outdoor Crowds: Boys,2,1,44100,2,197.21285714285713
+130,07017014.wav,"Group of boys assembling with speech, laughter and footsteps on gravel.",200,,EC40E,Outdoor Crowds: Boys,3,1,44100,2,198.00233560090703
+131,07017015.wav,"Group of youthful supporters with occasional speech and cheering. (Suggested use, sports meetings, fetes)",202,,EC40E,Outdoor Crowds: Boys,4,1,44100,2,200.1089342403628
+132,07017016.wav,Excited chatter from large crowd. (Wide perspective),401,,EC40F,Outdoor Crowd,1,1,44100,2,397.1742403628118
+133,07017017.wav,"Crowd at International Ladies Hockey Match, including approx 60,000 girls. (General match atmosphere at Wembley, 1961)",396,,EC40F,Outdoor Crowd,2,1,44100,2,393.7391383219955
+134,07017018.wav,Applause from thirty people.,9,,EC40G,Outdoor Crowds (30 People) ,1,1,44100,2,6.333310657596372
+135,07017019.wav,Applause from thirty people.,12,,EC40G,Outdoor Crowds (30 People) ,2,1,44100,2,10.24
+136,07017020.wav,Applause from thirty people.,13,,EC40G,Outdoor Crowds (30 People) ,3,1,44100,2,11.28
+137,07017021.wav,Two long bursts of mixed cheering. (Thirty people.),26,,EC40G,Outdoor Crowds (30 People) ,4,1,44100,2,24.12
+138,07017022.wav,One burst of mixed cheering. (Thirty people.),25,,EC40G,Outdoor Crowds (30 People) ,5,1,44100,2,23.1
+139,07017023.wav,Three cheers from group of men. (Thirty men.),11,,EC40G,Outdoor Crowds (30 People) ,6,1,44100,2,9.06
+140,07017024.wav,Three cheers from mixed group of people. (Thirty people.),15,,EC40G,Outdoor Crowds (30 People) ,7,1,44100,2,12.28
+141,07017025.wav,Three cheers from group of women. (Thirty women.),12,,EC40G,Outdoor Crowds (30 People) ,8,1,44100,2,10.7
+142,07017026.wav,Mixed continuous outdoor laughter. (Thirty people.),45,,EC40G,Outdoor Crowds (30 People) ,9,1,44100,2,42.28
+143,07017027.wav,Mixed cheerful chatter. (Thirty people.),187,,EC40G,Outdoor Crowds (30 People) ,10,1,44100,2,184.9512925170068
+144,07017028.wav,"General atmosphere of crowd at protest meeting. (6000 people, recorded outdoors in England.)",395,,EC40H,Crowd Of 6000 At Protest Meeting,1,1,44100,2,393.4757596371882
+145,07017029.wav,"Cheers and applause at protest meeting. (6000 people, recorded outdoors in England.)",17,,EC40H,Crowd Of 6000 At Protest Meeting,2,1,44100,2,14.567165532879818
+146,07017030.wav,"Cheers and applause at protest meeting. (6000 people, recorded outdoors in England.)",15,,EC40H,Crowd Of 6000 At Protest Meeting,3,1,44100,2,13.52
+147,07017031.wav,"Cheers and applause at protest meeting. (6000 people, recorded outdoors in England.)",14,,EC40H,Crowd Of 6000 At Protest Meeting,4,1,44100,2,11.64
+148,07017032.wav,"Mild applause at protest meeting. (6000 people, recorded outdoors in England.)",8,,EC40H,Crowd Of 6000 At Protest Meeting,5,1,44100,2,6.45
+149,07017033.wav,"Crowd at protest meeting saying 'Aye'. (6000 people, recorded outdoors in England.)",13,,EC40H,Crowd Of 6000 At Protest Meeting,6,1,44100,2,10.48
+150,07017034.wav,"Laughter into applause and whistles at protest meeting. (6000 people, recorded outdoors in England.)",19,,EC40H,Crowd Of 6000 At Protest Meeting,7,1,44100,2,17.585238095238097
+151,07017035.wav,"Cheers and applause at protest meeting. (6000 people, recorded outdoors in England.)",12,,EC40J,Crowd Of 6000 At Protest Meeting,1,1,44100,2,10.126485260770975
+152,07017036.wav,"Cheers and applause at protest meeting. (6000 people, recorded outdoors in England.)",18,,EC40J,Crowd Of 6000 At Protest Meeting,2,1,44100,2,15.8
+153,07017037.wav,"Cheers and applause at protest meeting. (6000 people, recorded outdoors in England.)",17,,EC40J,Crowd Of 6000 At Protest Meeting,3,1,44100,2,14.295034013605441
+154,07017038.wav,"Chatter at close of protest meeting. (6000 people, recorded outdoors in England.)",96,,EC40J,Crowd Of 6000 At Protest Meeting,4,1,44100,2,94.58
+155,07017039.wav,"Cheers and applause at protest meeting. (6000 people, recorded outdoors in England.)",13,,EC40J,Crowd Of 6000 At Protest Meeting,5,1,44100,2,10.68
+156,07017040.wav,"Cheers, applause and whistles at protest meeting. (6000 people, recorded outdoors in England.)",27,,EC40J,Crowd Of 6000 At Protest Meeting,6,1,44100,2,24.7
+157,07017041.wav,"Cheers, applause and whistles at protest meeting. (6000 people, recorded outdoors in England.)",23,,EC40J,Crowd Of 6000 At Protest Meeting,7,1,44100,2,20.465034013605443
+158,07017042.wav,"Cheers, applause and whistles at protest meeting. (6000 people, recorded outdoors in England.)",29,,EC40J,Crowd Of 6000 At Protest Meeting,8,1,44100,2,26.62
+159,07017043.wav,"Cheers and applause at protest meeting. (6000 people, recorded outdoors in England.)",16,,EC40J,Crowd Of 6000 At Protest Meeting,9,1,44100,2,14.618344671201815
+160,07017044.wav,"Cheers and applause at protest meeting. (6000 people, recorded outdoors in England.)",17,,EC40J,Crowd Of 6000 At Protest Meeting,10,1,44100,2,15.12
+161,07017045.wav,"Cheers and applause at protest meeting. (6000 people, recorded outdoors in England.)",27,,EC40J,Crowd Of 6000 At Protest Meeting,11,1,44100,2,24.40888888888889
+162,07017046.wav,"Cheers and applause at protest meeting. (6000 people, recorded outdoors in England.)",36,,EC40J,Crowd Of 6000 At Protest Meeting,12,1,44100,2,34.69269841269841
+163,07017047.wav,Large cosmopolitan crowd with speech & footsteps.,366,,EC40K,Indoor Crowds: Small Group (English),1,1,44100,2,363.62201814058955
+164,07017048.wav,"Small group, mixed cheerful chatter.",254,,EC40K,Indoor Crowds: Small Group (English),2,1,44100,2,251.51931972789114
+165,07017049.wav,Small group arguing. (Some identifiable speech.),123,,EC40K,Indoor Crowds: Small Group (English),3,1,44100,2,121.28909297052154
+166,07017180.wav,"Small German crowd, with mixed indoor chatter. (Some distinct speech.)",409,,EC60B,German Crowds,1,1,44100,2,407.084716553288
+167,07017181.wav,German crowd in large department store with sounds of tills being used.,407,,EC60B,German Crowds,2,1,44100,2,405.26761904761906
+168,07017182.wav,"German crowd, exterior, mixed angry crowd. (Some shouting.)",421,,EC60C,German Crowds,1,1,44100,2,418.5765532879819
+169,07017183.wav,"German crowd, exterior, large angry crowd. (Some shouting.)",417,,EC60C,German Crowds,2,1,44100,2,415.59120181405893
+170,07018003.wav,"Large Crowd, mainly women, in a hall, with footsteps & indistinct speech.",424,,EC73B,Chatter,1,1,44100,2,422.0925850340136
+171,07018004.wav,"Crowd of 36 women, in a hall, with footsteps & indistinct speech.",423,,EC73B,Chatter,2,1,44100,2,421.26503401360543
+172,07018005.wav,"Crowd of 100 women, in a hall, with footsteps & indistinct speech.",422,,EC73C,Chatter,1,1,44100,2,420.2115192743764
+173,07018006.wav,"Crowd of 40 women, in a hall, with some children. (Close perspective recording.)",421,,EC73C,Chatter,2,1,44100,2,419.13959183673467
+174,07018007.wav,"Small crowd, mainly women, general atmosphere with speech & some pauses.",439,,EC73D,Chatter: Women,1,1,44100,2,436.8918820861678
+175,07018008.wav,"Small crowd, mainly women, quiet continuous conversation with occassional rattle of teacups.",362,,EC73D,Chatter: Women,2,1,44100,2,360.18349206349205
+176,07018009.wav,"Small crowd, mainly women, exclamation during conversation.",10,,EC73D,Chatter: Women,3,1,44100,2,7.577233560090703
+177,07018015.wav,"Crowd of 40-50 men & women in hall, continuous serious indistinct speech.",422,,EC73G,Chatter,1,1,44100,2,419.5386394557823
+178,07018016.wav,"Crowd of 60 people, mainly men, continuous indistinct speech after meeting in hall.",477,,EC73G,Chatter,2,1,44100,2,475.1375736961451
+179,07018017.wav,"Crowd of 40-50 men & women in a hall, angry shouting with occasional pauses.",421,,EC73H,Chatter,1,1,44100,2,419.3094784580499
+180,07018018.wav,"Crowd of 40-50 men & women in a hall, loud & angry shouting with occasional pauses.",421,,EC73H,Chatter,2,1,44100,2,418.55619047619047
+181,07018019.wav,Twelve Victorian ladies in polite indoor conversation. (Farcical.),138,,EC73J,Crowd Reaction (Farcical),1,1,44100,2,136.0195918367347
+182,07018020.wav,Fifteen Victorian ladies in spirited indoor conversation with some laughter. (Farcical.),144,,EC73J,Crowd Reaction (Farcical),2,1,44100,2,142.1465306122449
+183,07018021.wav,Six women cheering. (Farcical.),13,,EC73J,Crowd Reaction (Farcical),3,1,44100,2,11.377913832199546
+184,07018022.wav,24 men and women cheering. (Farcical.),9,,EC73J,Crowd Reaction (Farcical),4,1,44100,2,6.129478458049887
+185,07018023.wav,50 men and women cheering. (Farcical.),16,,EC73J,Crowd Reaction (Farcical),5,1,44100,2,13.54
+186,07018024.wav,Six men cheering. (Farcical.),10,,EC73J,Crowd Reaction (Farcical),6,1,44100,2,7.98
+187,07018025.wav,"Nine men and women saying 'Hear, hear'. (Farcical.)",7,,EC73J,Crowd Reaction (Farcical),7,1,44100,2,4.82
+188,07018026.wav,"Ten men saying  'Hear, hear'. (Farcical.)",8,,EC73J,Crowd Reaction (Farcical),8,1,44100,2,6.2
+189,07018027.wav,"Ten women saying  'Hear, hear'. (Farcical.)",8,,EC73J,Crowd Reaction (Farcical),9,1,44100,2,5.780816326530612
+191,07018029.wav,"Twelve men saying 'Aye, aye'. (Farcical.)",7,,EC73J,Crowd Reaction (Farcical),11,1,44100,2,4.761179138321996
+192,07018030.wav,"Ten women saying 'Aye, aye'. (Farcical.)",7,,EC73J,Crowd Reaction (Farcical),12,1,44100,2,4.974013605442177
+193,07018031.wav,"Fifteen men and women saying 'No, no'. (Farcical.)",8,,EC73K,Crowd Reaction (Farcical),1,1,44100,2,5.313718820861678
+194,07018032.wav,"Fifteen men saying 'No, no'. (Farcical.)",8,,EC73K,Crowd Reaction (Farcical),2,1,44100,2,6.58
+195,07018033.wav,"Twelve women saying 'No, no'. (Fracical.)",8,,EC73K,Crowd Reaction (Farcical),3,1,44100,2,5.4
+196,07018034.wav,Fifteen men and women booing. (Farcical.),11,,EC73K,Crowd Reaction (Farcical),4,1,44100,2,8.71609977324263
+197,07018035.wav,Twelve men booing. (Farcical.),12,,EC73K,Crowd Reaction (Farcical),5,1,44100,2,9.2
+198,07018036.wav,Six women booing. (Farcical.),9,,EC73K,Crowd Reaction (Farcical),6,1,44100,2,7.44
+199,07018037.wav,"Victorian party chatter, 24 men & women. (Farcical.) ",94,,EC73K,Crowd Reaction (Farcical),7,1,44100,2,91.5959410430839
+200,07018038.wav,"Spirited party chatter, 30 men & women. (Farcical.)",92,,EC73K,Crowd Reaction (Farcical),8,1,44100,2,89.92351473922902
+201,07018039.wav,"Closing time in public house, twelve youths, laughter with some distinct speech. (Farcical.)",77,,EC73K,Crowd Reaction (Farcical),9,1,44100,2,75.64092970521541
+202,07018040.wav,"Party chatter, fifteen gushing women. (Farcical.)",94,,EC73K,Crowd Reaction (Farcical),10,1,44100,2,91.45603174603174
+205,07018048.wav,"Jeering & booing, 50 people, 20-30 years old. (Interior.)",44,,EC73N,Crowd Reaction & Chatter,3,1,44100,2,41.780680272108846
+206,07018049.wav,"Cheering, 50 people, 20-30 years old. (Interior.)",16,,EC73N,Crowd Reaction & Chatter,4,1,44100,2,13.968979591836735
+207,07018050.wav,"'Hip hip hooray', 50 people, 20-30 years old. (Interior.)",9,,EC73N,Crowd Reaction & Chatter,5,1,44100,2,7.6
+208,07018051.wav,"Applause, 50 people, 20-30 years old. (Interior.)",12,,EC73N,Crowd Reaction & Chatter,6,1,44100,2,9.64
+209,07018052.wav,"Applause, 50 people, 20-30 years old. (Interior.)",15,,EC73N,Crowd Reaction & Chatter,7,1,44100,2,13.16
+210,07018053.wav,"Slow hand-clap into fast rhythm, 20-30 year olds. (Interior.)",19,,EC73N,Crowd Reaction & Chatter,8,1,44100,2,17.32
+211,07018054.wav,"Hearty laughter, 20-30 years old. (Interior.)",14,,EC73N,Crowd Reaction & Chatter,9,1,44100,2,12.028299319727891
+212,07018055.wav,"Hearty laughter, 20-30 years old. (Interior.)",10,,EC73N,Crowd Reaction & Chatter,10,1,44100,2,8.0
+213,07018056.wav,Six bursts of laughter from group of 20-30 year-olds. (4 seconds between each burst),84,,EC73N,Crowd Reaction & Chatter,11,1,44100,2,81.81151927437642
+214,07018057.wav,"People dispersing after a meeting, some distant speech, 20-30 years old. (Interior.)",206,,EC73N,Crowd Reaction & Chatter,12,1,44100,2,203.68843537414966
+215,07019041.wav,"Sheffield Tram No. 189, interior, run in crowded upper saloon.",169,,EC4B5,Trams: Sheffield Tram No. 189,7,1,44100,2,167.72
+216,07019043.wav,"Sheffield Tram No. 189, run in crowded lower saloon.",128,,EC4B5,Trams: Sheffield Tram No. 189,9,1,44100,2,126.71210884353742
+217,07019097.wav,"Earls Court Boat Show 1966, atmosphere in entrance hall.",183,,EC70B,Exhibition Crowds,1,1,44100,2,181.29455782312925
+218,07019098.wav,"Earls Court Boat Show 1966, atmosphere as people enter hall through turnstiles.",184,,EC70B,Exhibition Crowds,2,1,44100,2,182.49666666666667
+219,07019099.wav,"Earls Court Motor Show 1955, general crowd atmosphere.",184,,EC70B,Exhibition Crowds,3,1,44100,2,182.4
+220,07019100.wav,"Farnborough Air Show 1961, crowd atmosphere in a large marquee.",184,,EC70B,Exhibition Crowds,4,1,44100,2,181.90918367346939
+221,07019115.wav,"Rockets, with crowd reaction. (Fireworks.)",29,,EC75A,Fireworks,10,1,44100,2,27.04
+222,07019149.wav,"Battle Ccrowd, with men shouting. (No gunfire.)",432,,EC82B,Battle Crowd,1,1,44100,2,430.11471655328796
+223,07019150.wav,"Battle Crowd, with men taunting & jeering.",405,,EC82B,Battle Crowd,2,1,44100,2,403.95167800453515
+224,07019154.wav,"Battle Crowd, murmuring crowd of men with occasional clink of swords. (Suggested use, period battle)",299,,EC82D,Large Outdoor Crowd: Men,1,1,44100,2,296.5748752834467
+225,07019155.wav,"Battle Crowd, mixed angry crowd, shouting rises to crescendo and dies down. (Suitable background to a period battle)",19,,EC82D,Large Outdoor Crowd: Men,2,1,44100,2,17.32
+226,07019156.wav,"Battle Crowd, mixed angry crowd shouting rises to crescendo and dies down. (Suitable background to a period battle)",32,,EC82D,Large Outdoor Crowd: Men,3,1,44100,2,30.36
+227,07019157.wav,"Battle Crowd, men shouting angrily. (Suggested use, period battle)",426,,EC82D,Large Outdoor Crowd: Men,4,1,44100,2,424.8819954648526
+228,07021044.wav,"Game of Snooker, small crowd chatters during game.",419,,EC67A,Billiards Saloon,1,1,44100,2,416.0885714285714
+229,07021051.wav,"Table Tennis, singles match. (No crowd.)",184,,EC67E,Badminton (No Crowd),1,1,44100,2,182.4984126984127
+230,07021052.wav,"Table Tennis, doubles match. (No crowd.)",189,,EC67E,Badminton (No Crowd),2,1,44100,2,186.85219954648525
+231,07021053.wav,"Badminton, singles match. (No crowd)",134,,EC67E,Badminton (No Crowd),3,1,44100,2,132.18428571428572
+232,07021054.wav,"Badminton, doubles match. (No crowd)",243,,EC67E,Badminton (No Crowd),4,1,44100,2,240.83827664399092
+233,07021114.wav,"Indoor Swimming Pool, general atmosphere, uncrowded with  dives & splashes.",453,,EC64E,Indoor Swimming Bath,1,1,44100,2,450.223514739229
+234,07022456.wav,"Fairgrounds: Crowd atmosphere, indistinct band in background",362,Fairgrounds: Crowd atmosphere,EC5F3,Fairgrounds,1,1,44100,2,360.8724489795918
+235,07024033.wav,"London Underground: Victoria Line, Interior, descent from ticket hall to trains, crowds and indistinct speech.",83,Trains: London Underground: Victoria Line,EC4T4,London Underground: Victoria Line,1,1,44100,2,80.9055328798186
+236,07024034.wav,"London Underground: Victoria Line, train enters station, doors open, crowds and indistinct speech.",36,Trains: London Underground: Victoria Line,EC4T4,London Underground: Victoria Line,2,1,44100,2,34.46185941043084
+237,07024035.wav,"London Underground: Victoria Line, train boarded, doors open, passengers alight, crowds and indistinct speech.",254,Trains: London Underground: Victoria Line,EC4T4,London Underground: Victoria Line,3,1,44100,2,251.52848072562358
+238,07024036.wav,"London Underground: Victoria Line, train at platform, departs, crowds and indistinct speech.",51,Trains: London Underground: Victoria Line,EC4T4,London Underground: Victoria Line,4,1,44100,2,49.26925170068027
+239,07024073.wav,"Steam Train: 2-6-2 tank locomotive, post 1945, suburban, exterior, start, depart from crowded station. ",56,Trains: Steam,EC3T3,"Suburban Steam Train: Exterior (2-6-2 Tank Locomotive, Past 1945)",6,1,44100,2,54.58004535147392
+240,07026095.wav,"France: Tour De France, actuality, winners presentation, general atmosphere of crowd.",134,"France: Tour De France, actuality, winners presentation, general",EC6F5,France: Tour De France,6,1,44100,2,132.2135827664399
+241,07027139.wav,"Tea Tent: Busy, mixed crowd.",372,"Tea Tent: Busy, mixed crowd",EC1R7,Tea Tent,1,1,44100,2,370.0768027210884
+242,07028002.wav,"Sport: Association Football league match, Derby v. Arsenal, crowd singing 'we shall not be moved'.",140,Sports: Football: Association,EC2S1,Association Football - League Match,2,1,44100,2,138.69825396825397
+243,07028005.wav,"Sport: Association football, Derby v. Arsenal, crowd reaction of oohs, aahs, applause.",36,Sports: Football: Association,EC2S2,Association Football - League Match,2,1,44100,2,34.24147392290249
+244,07028006.wav,"Sport: Association football, Derby v. Arsenal, crowd reaction of oohs and aahs.",46,Sports: Football: Association,EC2S2,Association Football - League Match,3,1,44100,2,44.32605442176871
+245,07028007.wav,"Sport: Association football, Derby v. Arsenal, crowd cheers.",36,Sports: Football: Association,EC2S2,Association Football - League Match,4,1,44100,2,34.3762358276644
+246,07028010.wav,"Sport: Association rugby, Middlesex v. Gloucester, crowd entering ground. ",189,Sports: Rugby: Association,EC2S2,Association Football - League Match,7,1,44100,2,187.11292517006802
+247,07028015.wav,"Swimming Pool: Crystal Palace, men's 1500m free-style race, public address at start, crowd reaction.",398,"Swimming Pools: Crystal Palace, men's 1500m free-style race, pub",EC2S5,Swimming Match At Crystal Palace (Indoors-With Crowd Reaction),1,1,44100,2,396.16580498866216
+248,07028016.wav,"Swimming Pool: Crystal Palace, men's 1500m free-style race end, crowd reaction. ",86,"Swimming Pools: Crystal Palace, men's 1500m free-style race end,",EC2S5,Swimming Match At Crystal Palace (Indoors-With Crowd Reaction),2,1,44100,2,84.72875283446712
+249,07028017.wav,"Swimming Pool: Crystal Palace, start and finish of men's 200m free-style race, crowd reaction. ",139,"Swimming Pools: Crystal Palace, start and finish of men's 200m f",EC2S5,Swimming Match At Crystal Palace (Indoors-With Crowd Reaction),3,1,44100,2,137.16503401360544
+250,07028018.wav,"Swimming Pool: Crystal Palace, start and finish of men's 200m butterfly race, crowd reaction. ",153,"Swimming Pools: Crystal Palace, start and finish of men's 200m b",EC2S5,Swimming Match At Crystal Palace (Indoors-With Crowd Reaction),4,1,44100,2,151.35233560090703
+251,07028019.wav,"Basket Ball: Match, Crowd cheering, whistle",341,Sports: Basketball: Match,EC2S6,Basket Ball - Crystal Palace (Ursiline V Sutton),1,1,44100,2,338.4510657596372
+252,07028021.wav,"Sports Crowd: Large restless crowd builds up, outdoor sports meeting",366,Sports Crowd: Large restless crowd builds up,EC2S7,Sports Crowd: Outdoor,1,1,44100,2,364.97333333333336
+253,07028022.wav,"Sports Crowd: Large crowd passing through turnstiles, outdoor sports meeting",363,Sports Crowd: Large crowd passing through turnstiles,EC2S7,Sports Crowd: Outdoor,2,1,44100,2,361.4338321995465
+254,07028038.wav,"Association Football: Mild ooh from crowd, (Arsenal v. Wolves)",21,Sports: Football: Association,EC2S10,Association Football,6,1,44100,2,19.488253968253968
+255,07028039.wav,"Association Football: Large ooh and applause from crowd, (Arsenal v. Wolves)",18,Sports: Football: Association,EC2S10,Association Football,7,1,44100,2,16.68795918367347
+256,07028040.wav,"Association Football: Large ooh and applause from crowd, (Arsenal v. Wolves)",23,Sports: Football: Association,EC2S10,Association Football,8,1,44100,2,21.21668934240363
+257,07028041.wav,"Association Football: Goal scored, applause and cheering from crowd, (Arsenal v. Wolves)",48,Sports: Football: Association,EC2S10,Association Football,9,1,44100,2,46.36798185941043
+258,07028044.wav,"Association Football: Goal scored, (Arsenal v. Wolves)",27,Sports: Football: Association,EC2S11,Association Football Match: Crowd Reactions,1,1,44100,2,25.8275283446712
+259,07028045.wav,"Association Football: Booing as player is sent off, (Arsenal v. Wolves)",39,Sports: Football: Association,EC2S11,Association Football Match: Crowd Reactions,2,1,44100,2,37.90698412698413
+260,07028046.wav,"Association Football: Players leave pitch and enter tunnel, (Arsenal v. Wolves)",47,Sports: Football: Association,EC2S11,Association Football Match: Crowd Reactions,3,1,44100,2,45.10018140589569
+261,07028047.wav,"Association Football: Crowd leaving ground, close perspective, Arsenal v. Wolves game.",154,Sports: Football: Association,EC2S11,Association Football Match: Crowd Reactions,4,1,44100,2,152.2724716553288
+262,07028048.wav,"Association Football: Atmosphere during match, from trainer's bench, occasional close speech, (Arsenal v. Wolves)",395,Sports: Football: Association,EC2S11,Association Football Match: Crowd Reactions,5,1,44100,2,392.9973696145125
+263,07028062.wav,"Cricket Match: Village Green, small crowd near pavilion. (Technical note, for use at low level)",215,Sports: Cricket: Match,EC2S13,Village Green Cricket Match (Rec. May With Birdsong On Each Band),2,1,44100,2,213.21979591836734
+264,07028072.wav,"Football, Local: Crowd of 300, recorded from stand.",410,"Crowds: Football: Crowd of 300, recorded from stand",EC2S15,Local Football Match (Crowd Of 300),1,1,44100,2,408.5599092970522
+265,07028073.wav,"Football, Local: Crowd of 300, cheers and boos as teams come out.",30,"Crowds: Football: Crowd of 300, cheers and boos as teams come ou",EC2S15,Local Football Match (Crowd Of 300),2,1,44100,2,28.714058956916098
+266,07028074.wav,"Football, Local: Crowd of 300, referee's whistle.",22,"Crowds: Football: Crowd of 300, referee's whistle",EC2S15,Local Football Match (Crowd Of 300),3,1,44100,2,20.199909297052155
+267,07028075.wav,"Football, Local: Crowd of 300, goal scored by home team.",23,"Crowds: Football: Crowd of 300, goal scored by home team",EC2S15,Local Football Match (Crowd Of 300),4,1,44100,2,21.42800453514739
+268,07028076.wav,"Football, Local: Crowd of 300, goal scored by away team.",23,"Crowds: Football: Crowd of 300, goal scored by away team",EC2S15,Local Football Match (Crowd Of 300),5,1,44100,2,21.315691609977325
+269,07028077.wav,"Football, Local: Crowd of 300, growing excitement, chant of ""Come on you reds""",22,Crowds: Football,EC2S15,Local Football Match (Crowd Of 300),6,1,44100,2,20.869591836734696
+270,07028078.wav,"Football, Local: Crowd of 300, near miss.",16,"Crowds: Football: Crowd of 300, near miss",EC2S15,Local Football Match (Crowd Of 300),7,1,44100,2,14.511020408163265
+271,07029146.wav,"Beach: Crowded, Children playing, seawash and occasional dog bark",396,Beach: Crowded,EC1S7,Crowded Beach,1,1,44100,2,392.5252607709751
+272,07029147.wav,"Beach: Children paddling and shouting at water's edge, seawash",394,Beach: Children paddling and shouting at water's edge,EC1S7,Crowded Beach,2,1,44100,2,392.213514739229
+273,07031028.wav,"Crowds: Exterior, Paternoster Square, London, footsteps and chatter.",227,"Crowds: Exterior, Paternoster Square, London, footsteps and chat",EC2C1,Outdoor Crowds,1,1,44100,2,224.85192743764173
+274,07031029.wav,"Crowds: Exterior, Berwick Street Market, London, footsteps and chatter.",270,"Crowds: Exterior, Berwick Street Market, London, footsteps and c",EC2C1,Outdoor Crowds,2,1,44100,2,268.5094784580499
+275,07031030.wav,"Crowds: Exterior, Angry jeering crowd.",239,"Crowds: Exterior, Angry jeering crowd",EC2C1,Outdoor Crowds,3,1,44100,2,237.45843537414967
+276,07031031.wav,"Crowds: Exterior, shouting, screaming and laughing.",139,"Crowds: Exterior, shouting, screaming and laughing",EC2C1,Outdoor Crowds,4,1,44100,2,137.26049886621314
+277,07031032.wav,"Crowds: Exterior, Aylesbury Market, speech, traffic, footsteps, ventilator hum.",452,"Crowds: Exterior, Aylesbury Market, speech, traffic, footsteps, ",EC2C2,Aylesbury Market,1,1,44100,2,450.65092970521545
+278,07031033.wav,"Crowds: Exterior, Berwick Street Market, speech, coins, footsteps. (Recorded walking along).",379,"Crowds: Exterior, Berwick Street Market, speech, coins, footstep",EC2C2,Aylesbury Market,2,1,44100,2,377.28616780045354
+279,07031034.wav,"Crowd: London Zoo, Outdoor, general, children. (No animal sounds).",365,"Crowds: London Zoo, Outdoor, general, children",EC2C3,Crowds: Outdoor,1,1,44100,2,363.33151927437643
+280,07031035.wav,"Crowd: London Zoo, Sealions at feeding time, barks, splashes, children.",375,Crowds: London Zoo,EC2C3,Crowds: Outdoor,2,1,44100,2,373.8411111111111
+281,07031036.wav,"Crowd: Background, expectant, with birdsong, occasional footsteps and speech.",408,"Crowds: Background, expectant, with birdsong, occasional footste",EC2C4,Expectant Crowd Background,1,1,44100,2,406.6933333333333
+282,07031037.wav,"Crowd: Large, expectant, with birdsong. (Wide perspective recording)",377,"Crowds: Large, expectant, with birdsong",EC2C4,Expectant Crowd Background,2,1,44100,2,375.0642857142857
+283,07031039.wav,"Crowd: Italy, Street Atmosphere, children and footsteps, no traffic. (Some distinct speech)",184,"Crowds: Italy, Street Atmosphere, children and footsteps, no tra",EC2C5,Italian Market,2,1,44100,2,182.18165532879817
+284,07031040.wav,"Crowd: Italy, Large Square, chatter and footsteps, no traffic. (Some distinct speech)",186,"Crowds: Italy, Large Square, chatter and footsteps, no traffic",EC2C5,Italian Market,3,1,44100,2,184.0407709750567
+285,07031043.wav,"Outdoor Crowd: Henley Regatta, close perspective recording (Occasional indistinct p.a. and boats).",306,"Outdoor Crowd: Henley Regatta, close perspective recording (Occa",EC2C7,Outdoor Crowds: Henley Regatta,1,1,44100,2,304.3045124716553
+286,07031044.wav,"Outdoor Crowd: Henley Regatta, applause, atmosphere.",30,"Outdoor Crowd: Henley Regatta, applause, atmosphere",EC2C7,Outdoor Crowds: Henley Regatta,2,1,44100,2,28.77485260770975
+287,07031045.wav,"Outdoor Crowd: Fete, children and adults, distant birdsong.",366,"Outdoor Crowd: Fete, children and adults, distant birdsong",EC2C7,Outdoor Crowds: Henley Regatta,3,1,44100,2,364.0518140589569
+288,07031046.wav,"Crowds: Outside Buckingham Palace, Cheer, Applause, mid-distant perspective.",22,"Crowds: Outside Buckingham Palace, Cheer, Applause, mid-distant ",EC2C8,"Crowds Outside Buckingham Palace, London (Mid-Distant Perspective)",1,1,44100,2,20.38922902494331
+289,07031047.wav,"Crowds: Outside Buckingham Palace, Noisy, footsteps, distant national anthem played and sung.",117,"Crowds: Outside Buckingham Palace, Noisy, footsteps, distant nat",EC2C8,"Crowds Outside Buckingham Palace, London (Mid-Distant Perspective)",2,1,44100,2,115.74224489795918
+290,07031048.wav,"Crowds: Outside Buckingham Palace, Subdued, Horseguards pass, mid-distant perspective.",75,"Crowds: Outside Buckingham Palace, Subdued, Horseguards pass, mi",EC2C8,"Crowds Outside Buckingham Palace, London (Mid-Distant Perspective)",3,1,44100,2,73.16804988662132
+291,07031049.wav,"Crowds: Outside Buckingham Palace, large subdued crowd.",181,"Crowds: Outside Buckingham Palace, large subdued crowd",EC2C8,"Crowds Outside Buckingham Palace, London (Mid-Distant Perspective)",4,1,44100,2,179.3791609977324
+292,07031050.wav,"Crowds: Outside Buckingham Palace, subdued crowd, close perspective recording.",214,"Crowds: Outside Buckingham Palace, subdued crowd, close perspect",EC2C8,"Crowds Outside Buckingham Palace, London (Mid-Distant Perspective)",5,1,44100,2,212.38489795918366
+293,07031051.wav,"Crowds: Outside Buckingham Palace, Cheers.",12,"Crowds: Outside Buckingham Palace, Cheers",EC2C8,"Crowds Outside Buckingham Palace, London (Mid-Distant Perspective)",6,1,44100,2,10.26875283446712
+294,07031052.wav,"Crowds: Outside Buckingham Palace, Cheers, Applause.",80,"Crowds: Outside Buckingham Palace, Cheers, Applause",EC2C8,"Crowds Outside Buckingham Palace, London (Mid-Distant Perspective)",7,1,44100,2,78.28371882086168
+295,07031053.wav,"Crowds: Outside Buckingham Palace, Chant of 'We Want The Queen'.",22,"Crowds: Outside Buckingham Palace, Chant of 'We Want The Queen'",EC2C8,"Crowds Outside Buckingham Palace, London (Mid-Distant Perspective)",8,1,44100,2,20.948321995464852
+296,07031054.wav,"Large Crowd: Outside St. Paul's Cathedral, mid-distant perspective recording, wedding of H.R.H. Prince of Wales. ",395,Large Crowd: Outside St,EC2C9,St. Paul’S Cathedral,1,1,44100,2,393.9128798185941
+297,07031055.wav,"Large Crowd: Outside St. Paul's Cathedral, shouts of orders, carriage procession arrives, cheers.",56,Large Crowd: Outside St,EC2C9,St. Paul’S Cathedral,2,1,44100,2,54.87201814058957
+298,07031056.wav,"Large Crowd: Outside St. Paul's Cathedral, shouts of orders, carriage procession arrives, cheers.",107,Large Crowd: Outside St,EC2C9,St. Paul’S Cathedral,3,1,44100,2,105.26185941043084
+299,07031057.wav,"Large Crowd: Outside St. Paul's Cathedral, cheering and whistling builds up.",66,Large Crowd: Outside St,EC2C9,St. Paul’S Cathedral,4,1,44100,2,64.42321995464853
+300,07031058.wav,"Large Crowd: Outside St. Paul's Cathedral, orders shouted, small cheer.",38,Large Crowd: Outside St,EC2C9,St. Paul’S Cathedral,5,1,44100,2,36.73995464852608
+301,07031059.wav,"Large Crowd: Outside St. Paul's Cathedral, large cheer.",50,Large Crowd: Outside St,EC2C9,St. Paul’S Cathedral,6,1,44100,2,48.68263038548753
+302,07031060.wav,"Large Crowd: Outside St. Paul's Cathedral, large cheer.",31,Large Crowd: Outside St,EC2C9,St. Paul’S Cathedral,7,1,44100,2,29.736507936507937
+303,07031061.wav,"Crowd Outdoor: Close, good natured crowd at public demonstration.",396,Crowds: Outdoors,EC2C10,Outdoor Crowds,1,1,44100,2,394.6983219954649
+304,07031062.wav,Crowd Outdoor: Large moving crowd with footsteps and voices.,397,Crowds: Outdoors,EC2C10,Outdoor Crowds,2,1,44100,2,395.8441723356009
+305,07032179.wav,"Greyhound Racing, hare going round a track. (No dogs or crowd.)",38,,EC172A,Greyhound Racing,3,1,44100,2,35.60702947845805
+306,07032182.wav,"Greyhound Racing, crowd and bookies before race.",195,,EC172A,Greyhound Racing,6,1,44100,2,192.85442176870748
+307,07032260.wav,"Eiffel Tower Lifts, small crowd waiting for lift.",182,,EC189B,Lifts,1,1,44100,2,180.27451247165533
+308,07032270.wav,"Public Demonstration in a London square, surge of angry crowd.",91,,EC188A,Public Demonstration In A London Square,1,1,44100,2,87.3784126984127
+309,07032271.wav,"Public Demonstration in a London square, angry crowd background.",298,,EC188A,Public Demonstration In A London Square,2,1,44100,2,296.4996371882086
+310,07032272.wav,"Public Demonstration in a London square, subdued crowd after demonstration.",394,,EC188A,Public Demonstration In A London Square,3,1,44100,2,392.2055782312925
+311,07034107.wav,"Ship Launch: 3,200 Tons, Sideways, before launch, Yorkshire crowd, close perspective. (Rec. Cochranes Shipyard. Selby July 1985)",202,Boats: Ship Launch,EC3S23,"Ship Launch: 3,200 Tons Sideways Launch",2,1,44100,2,200.98351473922904
+312,07034142.wav,Small crowd gasps.,13,,EC169C,Vocal & Heart Effects,7,1,44100,2,11.181360544217688
+314,07035067.wav,"100 men, single cheer.",12,,EC94A,Crowds Cheering (Outdoors),2,1,44100,2,9.76
+315,07035068.wav,"100 men, prolonged cheer.",15,,EC94A,Crowds Cheering (Outdoors),3,1,44100,2,12.92
+316,07035069.wav,"100 men, prolonged cheer.",15,,EC94A,Crowds Cheering (Outdoors),4,1,44100,2,12.828480725623583
+317,07035070.wav,"100 men, single cheer.",12,,EC94A,Crowds Cheering (Outdoors),5,1,44100,2,10.623650793650794
+318,07035071.wav,"100 men, single cheer.",9,,EC94A,Crowds Cheering (Outdoors),6,1,44100,2,6.914467120181406
+319,07035072.wav,"100 men, single cheer.",15,,EC94A,Crowds Cheering (Outdoors),7,1,44100,2,13.06891156462585
+320,07035073.wav,Large crowd cheering.,27,,EC94A,Crowds Cheering (Outdoors),8,1,44100,2,24.901587301587302
+321,07035074.wav,Large crowd cheering.,38,,EC94A,Crowds Cheering (Outdoors),9,1,44100,2,35.41351473922902
+322,07035075.wav,Large crowd cheering continuously.,164,,EC94A,Crowds Cheering (Outdoors),10,1,44100,2,161.68380952380951
+323,07035140.wav,"Caracalla, interior, crowds enter forum with programme sellers & speech of foreign tourists.",204,,EC97C,Italy (Caracalla): Indoor Crowds,1,1,44100,2,203.40514739229025
+324,07035141.wav,"Caracalla, interior, gong sounds, auditorium atmosphere.",204,,EC97C,Italy (Caracalla): Indoor Crowds,2,1,44100,2,202.94124716553287
+325,07035142.wav,"Caracalla, interior, applause & atmosphere at end of act.",111,,EC97C,Italy (Caracalla): Indoor Crowds,3,1,44100,2,109.52634920634921
+326,07035143.wav,"Caracalla, interior, applause & atmosphere at end of performance.",119,,EC97C,Italy (Caracalla): Indoor Crowds,4,1,44100,2,117.51621315192743
+327,07035144.wav,"Caracalla, interior, crowds leaving after performance.",145,,EC97C,Italy (Caracalla): Indoor Crowds,5,1,44100,2,144.3305215419501
+328,07035145.wav,"Italian Crowd, exterior, large & very excited, with cheers, shrieks & whistles.",214,,EC97D,Italy: Outdoor Crowds,1,1,44100,2,212.51807256235827
+329,07035146.wav,"Italian Crowd, exterior, very large crowd with cheers at beginning.",169,,EC97D,Italy: Outdoor Crowds,2,1,44100,2,168.17097505668934
+330,07035147.wav,"Rome, fairground dodgems.",201,,EC97D,Italy: Outdoor Crowds,3,1,44100,2,200.37687074829932
+331,07035148.wav,"Italian crowd, exterior, murmuring crowd.",196,,EC97D,Italy: Outdoor Crowds,4,1,44100,2,193.9861224489796
+332,07035150.wav,"Vatican, exterior, crowds disperse at end of Pope's speech with tolling bell, other bells join in.",204,,EC97E,Italy (Rome): Children Playing,2,1,44100,2,202.9673469387755
+333,07036065.wav,"French Crowd, subdued crowd of men in hall.",388,,EC95A,French Crowds,1,1,44100,2,385.55487528344673
+334,07036066.wav,"French Crowd, animated crowd of men in hall.",459,,EC95A,French Crowds,2,1,44100,2,457.962358276644
+335,07036067.wav,"French Café, atmosphere in a busy popular cafe.",413,,EC95B,French Crowds,1,1,44100,2,411.3302494331066
+336,07036068.wav,"French Snack Bar, atmosphere in a busy snack bar.",392,,EC95B,French Crowds,2,1,44100,2,390.82049886621314
+337,07036071.wav,"French Customs Hall, atmosphere in customs hall at Calais.",394,,EC95D,French Crowds,1,1,44100,2,392.96977324263037
+338,07036072.wav,"Prisunic Department Store, general atmosphere.",379,,EC95D,French Crowds,2,1,44100,2,377.752380952381
+339,07037241.wav,Medium-sized mixed party crowd with American chatter. (Recorded at a U.S. Air Force base in England.),426,,EC205A,American Chatter,1,1,44100,2,423.6917006802721
+340,07037242.wav,Large mixed party crowd with American chatter. (Recorded at a U.S. Air Force base in England.),427,,EC205A,American Chatter,2,1,44100,2,425.8126077097506
+341,07037243.wav,Medium-sized mixed crowd in a dining hall with American chatter. (Recorded at a U.S. Air Force base in England.),431,,EC205B,American Chatter,1,1,44100,2,429.5089342403628
+342,07037244.wav,Large mixed crowd in a dining hall with American chatter. (Recorded at a U.S. Air Force base in England.),426,,EC205B,American Chatter,2,1,44100,2,424.2928117913832
+343,07037250.wav,"Dutch Restaurant, atmosphere in large restaurant.",215,,EC98A,Dutch Crowds,1,1,44100,2,212.0222222222222
+344,07037251.wav,"Dutch Public House, atmosphere with jolly crowd.",206,,EC98A,Dutch Crowds,2,1,44100,2,203.47510204081632
+345,07037252.wav,"Amsterdam Market, general atmosphere.",209,,EC98A,Dutch Crowds,3,1,44100,2,206.81659863945578
+346,07037253.wav,"Dutch Street, children & adults in street.",205,,EC98A,Dutch Crowds,4,1,44100,2,203.13641723356008
+347,07038093.wav,NASA Space Shuttle lift off with crowd at launch pad. (Recorded at NASA Space Centre.),85,,EC192K,Space Travel,2,1,44100,2,83.06829931972788
+348,07038107.wav,"White City Stadium athletics meeting, applause, crowd murmur & gasp.",37,,EC197C,Athletics,1,1,44100,2,34.754784580498864
+349,07038280.wav,"Laughter, medium sized crowd.",34,,EC90A,Laughter,12,1,44100,2,32.645442176870745
+350,07039001.wav,"Italian Chatter, small mixed crowd, interior.",99,,EC1006A,Crowds: Chatter Yugoslav,1,1,44100,2,96.97024943310657
+351,07039002.wav,"Italian Chatter, large mixed crowd, interior.",107,,EC1006A,Crowds: Chatter Yugoslav,2,1,44100,2,105.67487528344671
+352,07039003.wav,"Italian Chatter, excited crowd with shouts, interior.",81,,EC1006A,Crowds: Chatter Yugoslav,3,1,44100,2,79.89242630385488
+353,07039004.wav,"English children in street, shouting & running.",21,,EC1006A,Crowds: Chatter Yugoslav,4,1,44100,2,20.00172335600907
+354,07039005.wav,"English children in street, arguing.",15,,EC1006A,Crowds: Chatter Yugoslav,5,1,44100,2,14.34249433106576
+355,07039006.wav,"English children in street, arguing.",79,,EC1006A,Crowds: Chatter Yugoslav,6,1,44100,2,78.16244897959184
+356,07039007.wav,"Yugoslav Chatter, small mixed group, interior.",69,,EC1006A,Crowds: Chatter Yugoslav,7,1,44100,2,68.020589569161
+357,07039008.wav,"Yugoslav Chatter, small mixed group, interior.",116,,EC1006A,Crowds: Chatter Yugoslav,8,1,44100,2,114.99573696145124
+358,07039009.wav,"Yugoslav Chatter, large mixed group, interior.",187,,EC1006A,Crowds: Chatter Yugoslav,9,1,44100,2,186.2164172335601
+359,07039010.wav,"Enthusiastic cheers, applause & shouting, medium-sized group.",19,,EC1006B,Crowds,1,1,44100,2,17.60984126984127
+360,07039011.wav,"Applause, small group.",12,,EC1006B,Crowds,2,1,44100,2,11.362902494331065
+361,07039012.wav,"Applause, medium-sized group.",14,,EC1006B,Crowds,3,1,44100,2,12.827845804988662
+362,07039013.wav,"Applause, large group.",19,,EC1006B,Crowds,4,1,44100,2,18.001269841269842
+363,07039014.wav,"Applause, two or three people.",7,,EC1006B,Crowds,5,1,44100,2,6.083492063492064
+364,07039015.wav,"Applause, one person.",11,,EC1006B,Crowds,6,1,44100,2,9.600725623582766
+365,07039016.wav,"Hysterical Laughter, medium size group.",19,,EC1006B,Crowds,7,1,44100,2,18.352290249433107
+366,07039017.wav,"Hysterical Laughter, medium size group.",30,,EC1006B,Crowds,8,1,44100,2,29.45904761904762
+367,07039018.wav,"Hysterical Laughter, one man and one woman.",13,,EC1006B,Crowds,9,1,44100,2,11.810068027210884
+368,07039019.wav,"Hysterical Laughter, several women.",20,,EC1006B,Crowds,10,1,44100,2,18.48829931972789
+369,07039020.wav,"Hysterical Laughter, one woman.",11,,EC1006B,Crowds,11,1,44100,2,9.724126984126984
+370,07039021.wav,Arabic Chatter in Cairo market place.,114,,EC1006B,Crowds,12,1,44100,2,112.62013605442176
+371,07039022.wav,"Russian Crowd, mixed, angry.",129,,EC1006C,Crowds: Interior,1,1,44100,2,127.9275283446712
+372,07039023.wav,"Russian Crowd, mixed, happy.",120,,EC1006C,Crowds: Interior,2,1,44100,2,118.83755102040816
+373,07039024.wav,"Small Russian Crowd, mixed, very animated.",80,,EC1006C,Crowds: Interior,3,1,44100,2,78.63310657596372
+374,07039025.wav,"Small Russian Crowd, mixed, very animated.",67,,EC1006C,Crowds: Interior,4,1,44100,2,65.74775510204081
+375,07039026.wav,"Russian Crowd, mixed, excited.",92,,EC1006C,Crowds: Interior,5,1,44100,2,91.08834467120181
+376,07039027.wav,"French Crowd, mixed, cheerful.",107,,EC1006C,Crowds: Interior,6,1,44100,2,105.72845804988663
+377,07039028.wav,"Small French Crowd, mixed.",45,,EC1006C,Crowds: Interior,7,1,44100,2,43.64879818594104
+378,07039029.wav,"Crowded French Restaurant, general atmosphere.",81,,EC1006C,Crowds: Interior,8,1,44100,2,79.87972789115646
+379,07039030.wav,"Small Dutch Crowd, mixed, animated.",86,,EC1006C,Crowds: Interior,9,1,44100,2,85.46839002267573
+380,07039039.wav,"Pakistan, street demonstration with crowd chanting 'Pakistani Zinderbad'.",27,,EC1006F,Foreign Atmospheres,9,1,44100,2,25.777392290249434
+381,07039043.wav,"Native Americans, crowd screaming. (Specially created effect.)",10,,EC1006G,Crowds: Foreign,1,1,44100,2,9.34421768707483
+382,07039044.wav,"Native Americans, crowd chatteringing. (Specially created effect.)",22,,EC1006G,Crowds: Foreign,2,1,44100,2,21.333242630385488
+383,07039045.wav,"Native Americans, frightened cries of crowd. (Specially created effect.)",15,,EC1006G,Crowds: Foreign,3,1,44100,2,14.123356009070294
+384,07039046.wav,"Native Americans, excited chatter of crowd. (Specially created effect.)",34,,EC1006G,Crowds: Foreign,4,1,44100,2,32.88662131519274
+385,07039047.wav,"China, newspaper sellers.",58,,EC1006G,Crowds: Foreign,5,1,44100,2,57.10857142857143
+386,07039048.wav,"China, Egg Street general atmoshere.",52,,EC1006G,Crowds: Foreign,6,1,44100,2,51.37578231292517
+387,07039049.wav,"China, Cloth Street general atmosphere.",62,,EC1006G,Crowds: Foreign,7,1,44100,2,61.2508843537415
+388,07039050.wav,"China, two black-cloth merchants selling cloth.",50,,EC1006G,Crowds: Foreign,8,1,44100,2,49.443446712018144
+389,07039051.wav,"Ballroom Atmosphere, footstep shuffle, chatter & applause at end.",173,,EC1006G,Crowds: Foreign,9,1,44100,2,172.2873469387755
+390,07039052.wav,"Ballroom Atmosphere, footstep shuffle, chatter & applause at end.",123,,EC1006G,Crowds: Foreign,10,1,44100,2,121.95138321995465
+391,07039065.wav,"Crowd, interior, quiet with coughs.",110,,EC1006J,Crowds: Interior,1,1,44100,2,107.18326530612245
+392,07039066.wav,"Crowd, interior, quiet with coughs.",92,,EC1006J,Crowds: Interior,2,1,44100,2,90.0467120181406
+393,07039067.wav,"Crowd, interior, animated with excited chatter.",85,,EC1006J,Crowds: Interior,3,1,44100,2,83.8421768707483
+394,07039068.wav,"Crowd, interior, angry.",94,,EC1006J,Crowds: Interior,4,1,44100,2,92.82510204081633
+395,07039069.wav,"Crowd, interior, nervous with tense murmuring.",83,,EC1006J,Crowds: Interior,5,1,44100,2,81.61142857142858
+396,07039070.wav,"Crowd, interior, gasp of horror & agitated chatter.",38,,EC1006J,Crowds: Interior,6,1,44100,2,36.341133786848076
+397,07039071.wav,"Crowd, interior, expectant murmur, gasp of horror & agitated chatter.",60,,EC1006J,Crowds: Interior,7,1,44100,2,58.516190476190474
+398,07039072.wav,"Crowd, interior, banquet atmosphere with dishes.",120,,EC1006J,Crowds: Interior,8,1,44100,2,117.65278911564626
+399,07039073.wav,"Crowd, interior, cheerful party chatter.",67,,EC1006K,Crowds: Interior,1,1,44100,2,64.89464852607709
+400,07039074.wav,"Crowd, interior, quiet speech.",81,,EC1006K,Crowds: Interior,2,1,44100,2,79.79192743764172
+401,07039075.wav,"Crowd, interior, quiet speech.",90,,EC1006K,Crowds: Interior,3,1,44100,2,88.38331065759637
+402,07039076.wav,"Crowd, interior, noisy pub chatter with laughs.",69,,EC1006K,Crowds: Interior,4,1,44100,2,66.83265306122449
+403,07039077.wav,"Crowd, interior, quiet pub chatter.",93,,EC1006K,Crowds: Interior,5,1,44100,2,91.01224489795918
+404,07039078.wav,"Crowd, interior, twenty people, quiet chatter.",82,,EC1006K,Crowds: Interior,6,1,44100,2,80.2368253968254
+405,07039079.wav,"Crowd, interior, twenty people, jovial party chatter & laughter.",84,,EC1006K,Crowds: Interior,7,1,44100,2,82.6001814058957
+406,07039080.wav,"Crowd, interior, twenty people, serious chatter.",87,,EC1006K,Crowds: Interior,8,1,44100,2,85.25115646258503
+407,07039081.wav,"Crowd, interior, twenty people, quiet light chatter.",84,,EC1006K,Crowds: Interior,9,1,44100,2,82.29560090702948
+408,07039082.wav,"Crowd, interior, twenty men, club atmosphere.",73,,EC1006K,Crowds: Interior,10,1,44100,2,71.16444444444444
+409,07039083.wav,"Crowd, interior, twenty men, club chatter.",85,,EC1006L,Crowds: Interior,1,1,44100,2,83.05814058956916
+410,07039084.wav,"Crowd, interior, twenty men, expectant chatter.",77,,EC1006L,Crowds: Interior,2,1,44100,2,75.60707482993197
+411,07039085.wav,"Crowd, interior, twenty men, cheerful laughter & party chatter.",76,,EC1006L,Crowds: Interior,3,1,44100,2,74.55573696145125
+412,07039086.wav,"Crowd, interior, twenty men, ""hear hear"" & applause.",20,,EC1006L,Crowds: Interior,4,1,44100,2,18.285986394557824
+413,07039087.wav,"Crowd, interior, twenty men, ""hear hear"" & applause.",15,,EC1006L,Crowds: Interior,5,1,44100,2,14.058775510204082
+414,07039088.wav,"Crowd, interior, twenty men, ""aye ayes"".",17,,EC1006L,Crowds: Interior,6,1,44100,2,14.708934240362812
+415,07039089.wav,"Crowd, interior, twenty men, ""no nos"".",18,,EC1006L,Crowds: Interior,7,1,44100,2,16.48453514739229
+416,07039090.wav,"Crowd, interior, twenty men, ""no nos"".",8,,EC1006L,Crowds: Interior,8,1,44100,2,6.413650793650794
+417,07039091.wav,"Crowd, interior, twenty women, quiet chatter.",88,,EC1006L,Crowds: Interior,9,1,44100,2,85.8465306122449
+418,07039092.wav,"Crowd, interior, twenty women, animated chatter.",84,,EC1006L,Crowds: Interior,10,1,44100,2,82.69678004535147
+419,07039093.wav,"Crowd, interior, twenty women, angry loud chatter.",90,,EC1006L,Crowds: Interior,11,1,44100,2,88.05551020408163
+420,07039094.wav,"Crowd, interior, twenty women, apprehensive chatter.",90,,EC1006M,Crowds: Interior,1,1,44100,2,88.37641723356009
+421,07039095.wav,"Crowd, interior, twenty women, jolly party laughter & chatter.",88,,EC1006M,Crowds: Interior,2,1,44100,2,87.0445351473923
+422,07039096.wav,"Crowd, interior, 8 men & women, party laughter & chatter.",91,,EC1006M,Crowds: Interior,3,1,44100,2,88.8604081632653
+423,07039097.wav,"Crowd, interior, 8 men & women, loud excited chatter.",93,,EC1006M,Crowds: Interior,4,1,44100,2,90.48580498866212
+424,07039098.wav,"Crowd, interior, 8 men & women, tense & hushed whispering.",88,,EC1006M,Crowds: Interior,5,1,44100,2,86.10875283446713
+425,07039099.wav,"Crowd, interior, 40 men & women, cheering & applause.",58,,EC1006M,Crowds: Interior,6,1,44100,2,55.929433106575964
+426,07039100.wav,"Crowd, interior, 40 men & women, ""hear hears"" & applause.",14,,EC1006M,Crowds: Interior,7,1,44100,2,13.0681179138322
+427,07039101.wav,"Crowd, interior, 40 men & women, stamping feet & applause.",25,,EC1006M,Crowds: Interior,8,1,44100,2,23.14643990929705
+428,07039102.wav,"Crowd, interior, 40 men & women, cheering 3 ""Hip, Hip, Hoorays"".",15,,EC1006M,Crowds: Interior,9,1,44100,2,13.661678004535148
+429,07039103.wav,"Crowd, interior, 40 men & women, booing & jeering.",50,,EC1006M,Crowds: Interior,10,1,44100,2,48.60476190476191
+430,07039108.wav,"Czech Chatter, small mixed crowd.",73,,EC1006Q,Crowds,1,1,44100,2,71.10916099773243
+431,07039109.wav,"Czech Chatter, small mixed crowd.",123,,EC1006Q,Crowds,2,1,44100,2,121.90936507936507
+432,07039110.wav,"Czech Chatter, small mixed crowd.",198,,EC1006Q,Crowds,3,1,44100,2,196.58201814058958
+433,07039111.wav,"Crowd: Dutch, chatter. (From 78 disc)",52,"Crowds: Dutch, chatter",EC1006Q,Crowds,4,1,44100,2,50.20843537414966
+434,07039112.wav,"Large Dutch Crowd, standing up.",20,,EC1006Q,Crowds,5,1,44100,2,18.094489795918367
+435,07039113.wav,"Large Dutch Crowd, sitting down.",16,,EC1006Q,Crowds,6,1,44100,2,15.026213151927438
+436,07039114.wav,"Pub Atmosphere, noisy chatter.",126,,EC1006Q,Crowds,7,1,44100,2,124.35918367346939
+437,07039115.wav,"Pub Atmosphere, quiet chatter with beer pumps.",42,,EC1006Q,Crowds,8,1,44100,2,40.534784580498865
+438,07039116.wav,"Children Playing, small noisy group.",75,,EC1006Q,Crowds,9,1,44100,2,72.50045351473923
+439,07040169.wav,Crowd in shopping precinct with footsteps & chatter. (Close perspective recording.),372,,EC23C,Shopping Precinct,1,1,44100,2,369.64798185941044
+440,07040170.wav,Crowd in shopping precinct with footsteps & chatter. (Wide perspective recording.),399,,EC23C,Shopping Precinct,2,1,44100,2,396.3750113378685
+441,07041147.wav,"Victoria Station Concourse, busy rush-hour crowd with footsteps, occasional indistinct voices, distant train whistles. (Recorded above concourse, no announcements.)",394,Trains: Stations: Victoria,EC2T12,"Victoria Station, London ",1,1,44100,2,391.51827664399093
+442,07041148.wav,"Victoria Station Concourse, busy rush-hour crowd with close footsteps, occasional indistinct voices, distant train whistles. (Recorded in crowd, no announcements.)",397,Trains: Stations: Victoria,EC2T12,"Victoria Station, London ",2,1,44100,2,394.0431746031746
+443,07042307.wav,"City dealing room, large crowded electronic office.",383,,ECD014,London,30,1,44100,2,380.79333333333335
+444,07043046.wav,"Light Entertainment Audience, quiet expectant audience with some laughter.",56,,ECD007,"Crowds, Children & Footsteps",1,1,44100,2,55.013333333333335
+446,07043048.wav,"Light Entertainment Audience, continuous cheering & applause.",17,,ECD007,"Crowds, Children & Footsteps",3,1,44100,2,17.18
+447,07043049.wav,"Light Entertainment Audience, boos and hisses.",16,,ECD007,"Crowds, Children & Footsteps",4,1,44100,2,16.186666666666667
+452,07043054.wav,"Light Entertainment Audience, loud laugh with clapping.",6,,ECD007,"Crowds, Children & Footsteps",9,1,44100,2,6.711768707482993
+453,07043055.wav,"Light Entertainment Audience, continuous laughing.",7,,ECD007,"Crowds, Children & Footsteps",10,1,44100,2,8.106666666666667
+454,07043056.wav,"Light Entertainment Audience, laugh into applause.",8,,ECD007,"Crowds, Children & Footsteps",11,1,44100,2,8.96
+455,07043057.wav,"Light Entertainment Audience, cheer into applause.",14,,ECD007,"Crowds, Children & Footsteps",12,1,44100,2,14.606666666666667
+456,07043058.wav,"Light Entertainment Audience, continuous applause.",25,,ECD007,"Crowds, Children & Footsteps",13,1,44100,2,25.666666666666668
+457,07043059.wav,Theatre Audience in foyer during interval.,121,,ECD007,"Crowds, Children & Footsteps",14,1,44100,2,121.32
+458,07043060.wav,"Theatre Audince, continuous laughter.",10,,ECD007,"Crowds, Children & Footsteps",15,1,44100,2,10.74
+459,07043061.wav,"Theatre Audience, laughter & applause into interval.",180,,ECD007,"Crowds, Children & Footsteps",16,1,44100,2,180.92666666666668
+460,07043062.wav,"Concert Audience, applause & tuning before piece, applause for Orchestra Leader, tuning, applause for Conductor.",133,,ECD007,"Crowds, Children & Footsteps",17,1,44100,2,133.15333333333334
+461,07043063.wav,"Concert Audience, applause between movements.",21,,ECD007,"Crowds, Children & Footsteps",18,1,44100,2,21.666666666666668
+462,07043064.wav,"Concert Audience, applause, cheers & stamping after piece, into stamping & slow hand clapping.",240,,ECD007,"Crowds, Children & Footsteps",19,1,44100,2,240.89333333333335
+463,07043065.wav,Department Store atmosphere.,130,,ECD007,"Crowds, Children & Footsteps",20,1,44100,2,130.22666666666666
+464,07043066.wav,Press Reception atmosphere. (Useful also for party atmosphere.),106,,ECD007,"Crowds, Children & Footsteps",21,1,44100,2,106.00666666666666
+465,07043067.wav,Two & a quarter year old baby crying.,122,,ECD007,"Crowds, Children & Footsteps",22,1,44100,2,122.23333333333333
+466,07043068.wav,Two & a quarter year old baby talking nonsense.,238,,ECD007,"Crowds, Children & Footsteps",23,1,44100,2,238.83333333333334
+467,07043069.wav,"Hysterical Children in class, quietens at end.",19,,ECD007,"Crowds, Children & Footsteps",24,1,44100,2,20.393378684807256
+468,07043070.wav,"Noisy Children in class, with banging.",79,,ECD007,"Crowds, Children & Footsteps",25,1,44100,2,79.61333333333333
+469,07043071.wav,Children cheering.,7,,ECD007,"Crowds, Children & Footsteps",26,1,44100,2,7.193333333333333
+470,07043072.wav,Children booing & hissing.,26,,ECD007,"Crowds, Children & Footsteps",27,1,44100,2,25.826666666666668
+471,07043073.wav,Children chattering quietly.,95,,ECD007,"Crowds, Children & Footsteps",28,1,44100,2,92.86
+472,07043074.wav,Children fidgeting quitely.,116,,ECD007,"Crowds, Children & Footsteps",29,1,44100,2,116.79333333333334
+473,07043075.wav,Forty children outside on wet gravel.,128,,ECD007,"Crowds, Children & Footsteps",30,1,44100,2,128.91333333333333
+474,07043076.wav,Two thousand children outside.,124,,ECD007,"Crowds, Children & Footsteps",31,1,44100,2,124.07333333333334
+475,07043077.wav,"Football Crowd during Second Division Match. (Recorded during Portsmouth v. Carlisle, 6th May 1985.)",151,,ECD007,"Crowds, Children & Footsteps",32,1,44100,2,150.38666666666666
+476,07043078.wav,"Football Crowd reaction to near miss during Second Division Match. (Recorded during Portsmouth v. Carlisle, 6th May 1985.)",20,,ECD007,"Crowds, Children & Footsteps",33,1,44100,2,20.311768707482994
+477,07043079.wav,"Football Crowd reaction to goal in Second Division Match. (Recorded during Portsmouth v. Carlisle, 6th May 1985.)",80,,ECD007,"Crowds, Children & Footsteps",34,1,44100,2,81.11333333333333
+478,07043080.wav,"County Cricket Match, general atmopshere. (Recorded during Hertfordshire v. Somerset.)",189,,ECD007,"Crowds, Children & Footsteps",35,1,44100,2,187.3
+479,07043081.wav,"London Marathon, atmosphere near start.",140,,ECD007,"Crowds, Children & Footsteps",36,1,44100,2,140.6
+480,07043082.wav,"London Marathon, cheers & applause.",111,,ECD007,"Crowds, Children & Footsteps",37,1,44100,2,111.45333333333333
+481,07043083.wav,"Industrial Dispute, jeers & calls.",51,,ECD007,"Crowds, Children & Footsteps",38,1,44100,2,51.18
+482,07043084.wav,"Industrial Dispute, chanting among marchers.",85,,ECD007,"Crowds, Children & Footsteps",39,1,44100,2,85.37333333333333
+483,07043085.wav,"Industrial Dispute, cheers, clapping & booing.",47,,ECD007,"Crowds, Children & Footsteps",40,1,44100,2,47.1
+484,07043086.wav,Large Crowd at Royal occasion.,135,,ECD007,"Crowds, Children & Footsteps",41,1,44100,2,135.26
+485,07043087.wav,"Crowd at Buckingham Palace, cheers for Queen.",40,,ECD007,"Crowds, Children & Footsteps",42,1,44100,2,40.50666666666667
+486,07043088.wav,One man walking on pavement.,60,,ECD007,"Crowds, Children & Footsteps",43,1,44100,2,61.06666666666667
+487,07043089.wav,Two men walking on pavement.,53,,ECD007,"Crowds, Children & Footsteps",44,1,44100,2,53.086666666666666
+488,07043090.wav,Footsteps in snow.,61,,ECD007,"Crowds, Children & Footsteps",45,1,44100,2,61.49333333333333
+489,07043091.wav,"Footsteps on shingle, with distant seawash.",63,,ECD007,"Crowds, Children & Footsteps",46,1,44100,2,63.346666666666664
+490,07043092.wav,Twenty men walking in broken step.,92,,ECD007,"Crowds, Children & Footsteps",47,1,44100,2,91.91333333333333
+491,07043093.wav,"Group of young people walking in park, with some voices.",41,,ECD007,"Crowds, Children & Footsteps",48,1,44100,2,41.68
+492,07044045.wav,"Public Bar atmosphere, quiet crowd in public house with glasses, occasional fruit machine & distant traffic. (Win on fruit machine at 2m46s.)",235,,ECD004,Interior Backgrounds,12,1,44100,2,234.64666666666668
+493,07044092.wav,"Tennis Game, with services, points won & crowd reaction. (See CD SFX catalogue for details.)",100,,ECD001,Mixed,43,1,44100,2,100.05333333333333
+494,07046144.wav,"Firework display at Alexandra Palace (with crowd) - 1973 (1F1, reprocessed)",317,,ECD081,Exterior Effects,19,1,44100,2,321.6
+495,07046145.wav,"Firework display at Thames, South Bank (with crowd) - 1973 (1F1, reprocessed)",314,,ECD081,Exterior Effects,20,1,44100,2,318.62666666666667
+496,07046179.wav,Tank procession with crowds cheering - 1982 (500U),66,,ECD100,World War 2,21,1,44100,2,71.90666666666667
+497,07047033.wav,"Applause, crowd of 30 people.",12,,EC63A,Applause,7,1,44100,2,10.08
+498,07047034.wav,"Applause, crowd of 30 people.",11,,EC63A,Applause,8,1,44100,2,9.96
+499,07047035.wav,"Applause, crowd of 30 people.",17,,EC63A,Applause,9,1,44100,2,15.39671201814059
+500,07047036.wav,"Applause, crowd of 50 people.",14,,EC63A,Applause,10,1,44100,2,12.9
+501,07047037.wav,"Applause, crowd of 50 people.",12,,EC63A,Applause,11,1,44100,2,10.66
+502,07047038.wav,"Applause, crowd of 50 people.",12,,EC63A,Applause,12,1,44100,2,10.843514739229025
+503,07047049.wav,"Teenage crowd, girls screaming in street, with much movement & general excitement.",233,,EC63C,Teenage Crowds,1,1,44100,2,231.01333333333332
+504,07047050.wav,"Teenage crowd, girls screaming in street, with traffic & motor horns.",100,,EC63C,Teenage Crowds,2,1,44100,2,98.92589569160998
+505,07047051.wav,"Teenage crowd, girls screaming in a theatre.",145,,EC63C,Teenage Crowds,3,1,44100,2,143.84
+506,07047052.wav,"Teenage crowd, girls scream & applaud in a theatre.",64,,EC63C,Teenage Crowds,4,1,44100,2,62.42
+507,07047053.wav,"Teenage crowd, stamping, booing & whistling crowd in a stadium.",116,,EC63C,Teenage Crowds,5,1,44100,2,114.36884353741496
+508,07047062.wav,"Male crowd, interior, rowdy with applause & booing. (200 men.)",56,,EC63E,Indoor Crowds (Male),1,1,44100,2,54.735827664399096
+509,07047063.wav,"Male crowd, interior, derisive with whistles. (200 men.)",32,,EC63E,Indoor Crowds (Male),2,1,44100,2,30.46
+510,07047064.wav,"Male crowd, interior, ,rowdy crowd hall.",177,,EC63E,Indoor Crowds (Male),3,1,44100,2,175.94
+511,07047065.wav,"Male crowd, exterior, rowdy crowd of male teenagers.",277,,EC63E,Indoor Crowds (Male),4,1,44100,2,275.21809523809526
+512,07048117.wav,"Football crowd, Legia Stadium, Warsaw - large noisy crowd, with chants, cheers, songs and whistling (at end)",367,Crowds: Chanting,ECD061,Poland,6,1,44100,2,372.7733333333333
+513,07049095.wav,"Crowds, Palais Royal Gardens, with birds, children playing, passing footsteps and speech.",234,Children: Playing,ECD050,France - Paris,4,1,44100,2,238.28
+514,07049096.wav,"Crowds, Tuileries Gardens, atmosphere at open air cafe, with speech, children, passing footsteps, birds and distant ",252,Cafes: France,ECD050,France - Paris,5,1,44100,2,256.92
+515,07049097.wav,"Crowds, Eiffel Tower, atmosphere of large international crowd waiting for lifts, with distant traffic.",253,Crowds: Exterior,ECD050,France - Paris,6,1,44100,2,258.08
+516,07049103.wav,"Large crowd at Louvre Museum in new entrance hall under glass pyramid, with occasional close speech.",174,Entrance Halls: France,ECD050,France - Paris,12,1,44100,2,178.81333333333333
+517,07049104.wav,"Crowd atmosphere at Louvre Museum, footsteps and voices in the ""Grande Gallerie""",175,Crowds: Interior,ECD050,France - Paris,13,1,44100,2,180.24
+518,07049112.wav,"British Museum entrance hall, large crowded entrance hall with footsteps, chatter and distant telephones.",334,Entrance Halls,ECD051,London 2,2,1,44100,2,339.7866666666667
+519,07049114.wav,"Covent Garden, interior atmosphere busy market hall atmosphere with footsteps and voices.",258,Crowds: Exterior,ECD051,London 2,4,1,44100,2,262.68
+520,07049115.wav,"Crowds in Covent Garden Piazza on a busy saturday afternoon, busker's music occassionally discernable in distance.",248,Crowds: Exterior,ECD051,London 2,5,1,44100,2,253.94666666666666
+521,07049116.wav,Close perspective international crowds passing with heavy traffic background. (Rec. Oxford Circus),296,Crowds: Exterior,ECD051,London 2,6,1,44100,2,300.7733333333333
+522,07050008.wav,"National Hunt Racing, distinct P.A. commentary on whole race, also crowd noise, etc., getting excited towards finish.",481,Crowds: Exterior: Excited,ECD031,Equestrian Events,8,1,44100,2,485.25333333333333
+523,07050009.wav,"National Hunt Racing, excited crowd at finish of 1989 Cheltenham Gold Cup, 1989, also distant P.A. with audible results (numbers only).",54,Crowds: Exterior: Excited,ECD031,Equestrian Events,9,1,44100,2,57.306666666666665
+524,07050010.wav,"National Hunt Racing, horses pass over hurdle, with P.A., crowd & distant siren.",19,Crowds: Exterior,ECD031,Equestrian Events,10,1,44100,2,23.786666666666665
+525,07050014.wav,"Point to Point Racing, large field passes over jump, with faint crowd.",36,Crowds: Exterior,ECD031,Equestrian Events,14,1,44100,2,41.946666666666665
+526,07050019.wav,"Point to Point Racing, field passes on flat, with distinct P.A., two stragglers & crowd noise.",25,Crowds: Exterior,ECD031,Equestrian Events,19,1,44100,2,28.186666666666667
+527,07050020.wav,"Point to Point Racing, finish of race with horses, crowd & distinct P.A. (Recorded by winning post.) ",34,Animals: Horses: Racing: Point to Point,ECD031,Equestrian Events,20,1,44100,2,38.54666666666667
+528,07050051.wav,"Speedway, four bike race, bikes come out on course with distant P.A., rev up & start, pass four times with distant crowd. (Recorded by start/finish line.)",104,Crowds: Exterior,ECD033,Adventure,17,1,44100,2,108.08934240362812
+529,07050052.wav,"Speedway, race with four passes, finish & ride past at end. (Recorded on opposite side of track from start line.)",86,Crowds: Exterior,ECD033,Adventure,18,1,44100,2,89.46267573696146
+530,07050053.wav,"Speedway, race with four passes, P.A., loud cheers & hooters. (Recorded from front of open grandstand, crowd's perspective.)",110,Crowds: Exterior: Cheering,ECD033,Adventure,19,1,44100,2,113.31600907029478
+531,07050054.wav,"Speedway, race recorded from enclosed glass-fronted grandstand, with P.A. & crowd cheering.",73,Crowds: Exterior: Cheering,ECD033,Adventure,20,1,44100,2,76.22267573696145
+532,07050195.wav,"Primary School, lunchtime atmosphere in school hall, lunchtime, mixed infants to 11 year olds, school bell rung (at 2m34s).",158,Bells: Schools,ECD039,Schools / Crowds,1,1,44100,2,164.16666666666666
+533,07050196.wav,"Primary School, classroom atmosphere in prefabricated building, 8-9 yo girls, some desk lids open & closed, children move around room. ",64,Desks,ECD039,Schools / Crowds,2,1,44100,2,70.26666666666667
+534,07050197.wav,"Primary School, cloak-room atmosphere, mixed infants to 10 year olds.",101,Boys,ECD039,Schools / Crowds,3,1,44100,2,105.46666666666667
+535,07050198.wav,"Primary School, mixed junior playground atmosphere, one child occasionally cries in background.",203,Boys,ECD039,Schools / Crowds,4,1,44100,2,210.16
+536,07050199.wav,"Primary School, classroom atmosphere in prefabricated building, 8-9 yo girls, chairs scraped on floor.",248,Chairs,ECD039,Schools / Crowds,5,1,44100,2,254.57333333333332
+537,07050200.wav,"Mixed Comprehensive School, classroom atmosphere, 5th Year Pupils chattering, chairs occasionally moved & door banged.",358,Boys,ECD039,Schools / Crowds,6,1,44100,2,363.8
+538,07050201.wav,"Mixed Comprehensive School, classroom atmosphere at end of 5th year lesson, bell rung, chairs moved & door banged.",49,Bells: Schools,ECD039,Schools / Crowds,7,1,44100,2,55.42666666666667
+539,07050202.wav,"Mixed Comprehensive School, classroom atmosphere, 2nd Year Pupils enter room, settle down, chatter & quiet periods while working, bell rung, chairs move & door banged.",379,Bells: Schools,ECD039,Schools / Crowds,8,1,44100,2,384.64
+540,07050203.wav,"Comprehensive School, girls changing room with 20-30 3rd Year Pupils, general chatter.",149,Girls,ECD039,Schools / Crowds,9,1,44100,2,157.29333333333332
+541,07050204.wav,"Comprehensive School, basketball practice & lesson in Sports Hall, 5th Year Boys with some shouting & whistle blown occasionally. (Very live acoustic.)",262,Sports: Basketball,ECD039,Schools / Crowds,10,1,44100,2,265.97333333333336
+542,07050205.wav,"Mixed Comprehensive School, general chatter in school corridor (quite busy) in large comprehensive, pupils of mixed ages & sexes, with doors banged, etc.",279,Boys,ECD039,Schools / Crowds,11,1,44100,2,285.8666666666667
+543,07050206.wav,"School Computer Class, general atmosphere in pre-fabricated room, with hum from computers, keys clicking, occasional background speech, T.V. whistle from monitors & people moving around. ",223,Boys,ECD039,Schools / Crowds,12,1,44100,2,229.4
+544,07050207.wav,"Primary School, junior girls' gym class (quite active), general atmosphere with equipment used & whistle blown twice at end of track.",266,Gyms,ECD039,Schools / Crowds,13,1,44100,2,270.76
+545,07050208.wav,"Primary School, junior girls' gym class, organised activities with whistle, lots of running around & occasional cheering.",158,Girls,ECD039,Schools / Crowds,14,1,44100,2,162.93333333333334
+546,07050209.wav,"Indoor Market, general chatter & footsteps, distant rumble of occasional traffic.",200,Crowds: Interior,ECD039,Schools / Crowds,15,1,44100,2,207.73333333333332
+547,07050210.wav,Dinner-Dance with large crowd (100-plus) in hall. (Narrow stereo image.),382,Crowds: Interior,ECD039,Schools / Crowds,16,1,44100,2,388.17333333333335
+548,07050211.wav,"Public House at lunch time, quite subdued atmosphere, with cooler faintly in background.",155,Crowds: Interior,ECD039,Schools / Crowds,17,1,44100,2,164.33333333333334
+549,07050212.wav,"Public House, pint of beer pulled.",11,Public Houses: Beer Engines,ECD039,Schools / Crowds,18,1,44100,2,18.866666666666667
+550,07050213.wav,"Public House, half a pint of beer pulled.",9,Public Houses: Beer Engines,ECD039,Schools / Crowds,19,1,44100,2,16.093333333333334
+551,07050214.wav,"Large expectant crowd in hall, general chatter. (Live acoustic recording.)",45,Crowds: Interior: Chatter,ECD039,Schools / Crowds,20,1,44100,2,50.733333333333334
+552,07050215.wav,Enthusiastic audience clapping & whistling in large hall.,22,Applause: Interior,ECD039,Schools / Crowds,21,1,44100,2,26.706666666666667
+553,07050216.wav,"General applause in large hall, ends.",15,Applause: Interior,ECD039,Schools / Crowds,22,1,44100,2,16.073333333333334
+554,07051032.wav,"Swimming, atmosphere in crowded indoor pool.",243,Swimming Pools,ECD017,Sport and Leisure,32,1,44100,2,245.08
+555,07051039.wav,"Rugby, county match with large crowd, scrums at 3m38s & 4m13s.",273,Sports: Rugby,ECD017,Sport and Leisure,39,1,44100,2,275.48
+556,07051107.wav,"Eunice, Crowd at garden party.",59,America,ECD024,America,14,1,44100,2,63.906666666666666
+557,07051110.wav,New Orleans: Crowd at heritage festival.,159,America,ECD024,America,17,1,44100,2,164.12
+558,07051149.wav,"Datong: Narrow street with crowds, bicycles & light traffic.",241,Bicycles,ECD026,China,1,1,44100,2,244.90666666666667
+559,07051153.wav,Wuhan: Busy street atmosphere with crowds & bicycles.,122,Bicycles,ECD026,China,5,1,44100,2,125.98666666666666
+560,07052011.wav,"Zaire: Gabadalit, small noisy crowd, with screaming children & footsteps.",212,Africa: Zaire,ECD029,Africa 1 - The Human World,11,1,44100,2,214.77333333333334
+561,07052015.wav,"Ethiopia: Gana Beles, market crowd, with some distinct speech (Shankilla & Amharic).",253,Africa: Ethiopia,ECD029,Africa 1 - The Human World,15,1,44100,2,254.14666666666668
+562,07052040.wav,"Spain: Expectant crowd, exterior, general chatter with lots of children around.",184,Chatter: Spain,ECD040,Spain,6,1,44100,2,184.97333333333333
+563,07052041.wav,"Spain: Jerez Riding School, exterior, crowds milling around outside with chatter & footsteps.",98,Crowds: Exterior: Chatter,ECD040,Spain,7,1,44100,2,98.57333333333334
+564,07052046.wav,"Spain: Fountain in busy square, with lots of traffic in background, hear chanting & singing in a Flamenco rhythm (at approx 3m12s).",269,Crowds: Exterior,ECD040,Spain,12,1,44100,2,269.24
+565,07052069.wav,"Public House, atmosphere in a moderately busy London pub, fruit machine win at 3m58s.",272,Crowds: Interior,ECD048,Crowds,1,1,44100,2,279.68666666666667
+566,07052070.wav,"Public House, animated chatter in large crowded pub.",268,Crowds: Interior,ECD048,Crowds,2,1,44100,2,272.06666666666666
+567,07052071.wav,"Public House, close perspective lively chatter in busy pub near closing time.",270,Crowds: Interior,ECD048,Crowds,3,1,44100,2,275.14666666666665
+568,07052072.wav,"Quiet Restaurant, subdued conversation in small restaurant (indistinct speech.)",280,Restaurants,ECD048,Crowds,4,1,44100,2,285.37333333333333
+569,07052073.wav,"Small Restaurant, atmosphere in moderately busy London West End Italian restaurant (slight vent hum.)",285,Restaurants,ECD048,Crowds,5,1,44100,2,288.84
+570,07052074.wav,"Busy Restaurant, international chatter, crockery, cutlery and waiters' passing footsteps.",280,Crockery,ECD048,Crowds,6,1,44100,2,283.9066666666667
+571,07052075.wav,"Hotal Dining Room, large busy dining room, with distant traffic.",275,Hotels,ECD048,Crowds,7,1,44100,2,278.84
+572,07052076.wav,"Cocktail Party, atmosphere at a small cocktail party.",270,Parties: Cocktail Parties,ECD048,Crowds,8,1,44100,2,275.44
+573,07052077.wav,"Cocktail Party, close perspective animtaed chatter at lively party.",225,Parties: Cocktail Parties,ECD048,Crowds,9,1,44100,2,257.9066666666667
+574,07052078.wav,"Accounts Office, atmosphere with adding machines, computers and telephones ringing at 3'54 and 4'46",308,Computers,ECD048,Crowds,10,1,44100,2,312.84
+575,07052079.wav,"Library, quiet atmosphere in galleried reference library, with footsteps and distant traffic.",302,Libraries,ECD048,Crowds,11,1,44100,2,306.1066666666667
+576,07052080.wav,"Crowd, exterior, expectant crowd in large open courtyard, with footsteps, occasional close voices and distant traffic.",325,Crowds: Exterior,ECD048,Crowds,12,1,44100,2,329.06666666666666
+577,07052081.wav,"Crowd, exterior, general cheerful hubbub of large crowd in open field, with some close voices.",311,Crowds: Exterior,ECD048,Crowds,13,1,44100,2,316.7733333333333
+578,07052082.wav,"FA Cup Final, general atmosphere of game without highlights. (1989 FA Cup Final, Liverpool v Everton.)",303,Crowds: Exterior,ECD048,Crowds,14,1,44100,2,307.14666666666665
+579,07052083.wav,"FA Cup Fuinal, near miss and applause. (1989 FA Cup Final, Liverpool v Everton.)",32,Crowds: Exterior,ECD048,Crowds,15,1,44100,2,37.0
+580,07052084.wav,"FA Cup Final, roar, applause, big roar, applause. (1989 FA Cup Final, Liverpool v Everton.)",32,Crowds: Exterior,ECD048,Crowds,16,1,44100,2,36.77333333333333
+581,07052085.wav,"FA Cup Final, boos and whistles. (1989 FA Cup Final, Liverpool v Everton.)",20,Boos,ECD048,Crowds,17,1,44100,2,25.213333333333335
+582,07052086.wav,"FA Cup Final, reaction to goal scored and boos from oposition. (1989 FA Cup Final, Liverpool v Everton.)",62,Boos,ECD048,Crowds,18,1,44100,2,67.33333333333333
+583,07052087.wav,"FA Cup Final, reaction to goal scored, singing and chanting. (1989 FA Cup Final, Liverpool v Everton.)",93,Crowds: Exterior,ECD048,Crowds,19,1,44100,2,93.19333333333333
+584,07053004.wav,"Village atmos. Santana (small village near Cartagena) small but busy crowd with noisy children,also wind in trees",191,Atmospheres: Villages,ECD058,Rural South America,4,1,44100,2,198.2
+585,07053081.wav,"Crowd atmosphere in a busy museum - 1974 (1Cl8,reprocessed)",299,Crowds: Interior,ECD089,Interiors - Various 2,15,1,44100,2,304.6
+586,07053084.wav,"Conversation at a cocktail party - 1972 (1C5,reprocessed)",243,Parties: Crowds,ECD089,Interiors - Various 2,18,1,44100,2,248.10666666666665
+587,07053104.wav,"Crowded beach with children playing, seawash and small dog barking from 2'22 - 1979 (1S7, reprocessed)",307,Children: Playing,ECD077,Water 2 - Sea,16,1,44100,2,307.2
+588,07054111.wav,"Inuit crowd in town square - Kummuit, East Greenland",267,Crowds: Exterior: Greenland,ECD065,Greenland,5,1,44100,2,271.44
+589,07054118.wav,"Drunken crowds, night time - Ammassalik",247,Crowds: Exterior: Greenland,ECD065,Greenland,12,1,44100,2,251.90666666666667
+590,07054130.wav,"Mumbai: Large, noisy crowd at Gateway of India, with hawkers in covered enclosure, slight echo.",243,Crowds: Exterior: India,ECD053,India and Nepal - City Life,3,1,44100,2,251.04
+591,07054131.wav,"Benares: Crowd near temple, with chanting, handclaps, bells & speech.",182,Crowds: Exterior: India,ECD053,India and Nepal - City Life,4,1,44100,2,188.81333333333333
+592,07054132.wav,"Calcutta: Market with chickens, speech, bells & man sweeping.",268,India: Street Sounds And Crowds,ECD053,India and Nepal - City Life,5,1,44100,2,275.64
+593,07054135.wav,"Mumbai: Churchgate Station, crowd atmosphere at rush hour, with noisy footsteps, trains, whistles & indistinct speech.",284,Trains: India,ECD053,India and Nepal - City Life,8,1,44100,2,292.1066666666667
+594,07054147.wav,"Crowd in Karl Johans Gate, Oslo - during National Day celebrations",186,Norway,ECD067,Scandinavia 1,4,1,44100,2,191.14666666666668
+595,07055001.wav,Turnstiles during quiet period.,123,Football,ECD136,Football & Rugby Crowds,1,1,44100,2,128.90666666666667
+596,07055002.wav,Turnstiles during busy period.,190,Football,ECD136,Football & Rugby Crowds,2,1,44100,2,195.09333333333333
+597,07055003.wav,Soccer crowd - Crystal Palace with good roars at end.,248,Crowds: Exterior,ECD136,Football & Rugby Crowds,3,1,44100,2,252.48
+598,07055004.wav,German football crowd - chanting and lots of horns.,261,Crowds: Chanting,ECD136,Football & Rugby Crowds,4,1,44100,2,265.37333333333333
+599,07055005.wav,"Crowd of 20,000 before match.",67,Crowds: Exterior,ECD136,Football & Rugby Crowds,5,1,44100,2,71.02666666666667
+600,07055006.wav,Half-time whistle and crowd reaction.,187,Crowds: Reaction: Exterior,ECD136,Football & Rugby Crowds,6,1,44100,2,191.14666666666668
+601,07055007.wav,Final whistle and crowd disperse.,300,Whistles,ECD136,Football & Rugby Crowds,7,1,44100,2,304.4266666666667
+602,07055008.wav,"Near miss, applause.",11,Applause: Exterior,ECD136,Football & Rugby Crowds,8,1,44100,2,15.666666666666666
+603,07055009.wav,Whistle for throw in.,7,Whistles,ECD136,Football & Rugby Crowds,9,1,44100,2,9.76
+604,07055010.wav,Goal scored.,33,Crowds: Exterior,ECD136,Football & Rugby Crowds,10,1,44100,2,38.093333333333334
+605,07055011.wav,Goal scored.,33,Crowds: Exterior,ECD136,Football & Rugby Crowds,11,1,44100,2,37.413333333333334
+606,07055012.wav,"Whistle, angry crowd.",26,Whistles,ECD136,Football & Rugby Crowds,12,1,44100,2,29.573333333333334
+607,07055013.wav,Half time whistle.,26,Whistles,ECD136,Football & Rugby Crowds,13,1,44100,2,30.613333333333333
+608,07055014.wav,General match atmosphere.,311,Crowds: Exterior,ECD136,Football & Rugby Crowds,14,1,44100,2,315.17333333333335
+609,07055015.wav,Small enthusiastic crowd.,285,Crowds: Exterior,ECD136,Football & Rugby Crowds,15,1,44100,2,290.25333333333333
+610,07055016.wav,Footsteps and conversation in crowd.,121,Crowds: Exterior,ECD136,Football & Rugby Crowds,16,1,44100,2,124.37333333333333
+611,07055017.wav,End of match - cheers and dispersal of crowd.,99,Crowds: Exterior,ECD136,Football & Rugby Crowds,17,1,44100,2,103.4
+612,07055018.wav,"FA Cup Final Wembley 1966, general atmosphere with highlights.",315,Football,ECD136,Football & Rugby Crowds,18,1,44100,2,319.50666666666666
+613,07055019.wav,"FA Cup Final Wembley 1966, general atmosphere with flat background (use at low level).",265,Football,ECD136,Football & Rugby Crowds,19,1,44100,2,269.0933333333333
+614,07055020.wav,"Rugby footbal, Twickenham.",341,Sports: Rugby,ECD136,Football & Rugby Crowds,20,1,44100,2,346.5466666666667
+615,07055021.wav,General atmosphere during match.,250,Crowds: Exterior,ECD136,Football & Rugby Crowds,21,1,44100,2,254.49333333333334
+616,07055022.wav,Try - applause.,18,Applause: Exterior,ECD136,Football & Rugby Crowds,22,1,44100,2,22.106666666666666
+617,07055023.wav,Applause for goal kick.,13,Applause: Exterior,ECD136,Football & Rugby Crowds,23,1,44100,2,17.546666666666667
+618,07055024.wav,Goal kick - applause.,13,Applause: Exterior,ECD136,Football & Rugby Crowds,24,1,44100,2,18.373333333333335
+619,07055025.wav,Shouts and applause.,22,Applause: Exterior,ECD136,Football & Rugby Crowds,25,1,44100,2,26.8
+620,07055026.wav,Mild applause.,13,Applause: Exterior,ECD136,Football & Rugby Crowds,26,1,44100,2,18.44
+622,07055028.wav,"People in stand before match, Middlesex V Gloucester.",179,Sports: Rugby,ECD136,Football & Rugby Crowds,28,1,44100,2,183.02666666666667
+623,07055029.wav,"Crowd entering ground, Middlesex V Gloucester.",170,Sports: Rugby,ECD136,Football & Rugby Crowds,29,1,44100,2,171.70666666666668
+624,07055119.wav,"Factory atmosphere, lunch break chatter.",152,Crowds: Interior,ECD130,Textiles,6,1,44100,2,155.77333333333334
+625,07056059.wav,"Large supermarket, crowded, with the sound of tills.",270,Shops: Supermarkets,ECD139,Urban South West Africa,3,1,44100,2,274.41333333333336
+626,07056068.wav,Cape Town (the Waterfront developmet) - noisy pedestrians enjoying themselves (daytime).,262,Crowds: Exterior,ECD139,Urban South West Africa,12,1,44100,2,266.9066666666667
+627,07056109.wav,Cellar wine bar - crowded at lunchtime.,252,Public Houses: Crowds,ECD106,Eating Places & Food Shops,10,1,44100,2,256.0
+628,07057013.wav,"Royal Festival Hall - closing applause - 1973 (1C10,reprocessed)",73,Crowds: Interior: Applause,ECD086,Interiors - Concert Halls,13,1,44100,2,78.96
+629,07057014.wav,"Applause, at 0'14"" atmosphere, settling down, score rustles, at 0'25"" quartet tuning up, quiet - 1972 (1C10,reprocessed)",62,Crowds: Interior: Applause,ECD086,Interiors - Concert Halls,14,1,44100,2,67.57333333333334
+630,07057015.wav,"Closing applause, applause swells from time to time, 'encore', at 4'53"" atmosphere - 1972 (1C10,reprocessed)",305,Crowds: Interior: Applause,ECD086,Interiors - Concert Halls,15,1,44100,2,310.73333333333335
+631,07057016.wav,"Applause, at 1'00"" atmosphere - 1972 (1C11,reprocessed)",140,Crowds: Interior: Applause,ECD086,Interiors - Concert Halls,16,1,44100,2,146.62666666666667
+632,07057017.wav,"Full orchestra tuning, at 3'04"" applause for conductor - 1972 (1C11,reprocessed)",203,Crowds: Interior: Applause,ECD086,Interiors - Concert Halls,17,1,44100,2,207.8
+633,07057018.wav,"Applause, at 0'26"" quiet - 1972 (1C11,reprocessed)",33,Crowds: Interior: Applause,ECD086,Interiors - Concert Halls,18,1,44100,2,39.46666666666667
+634,07057019.wav,"Atmosphere, at 1'00"" applause, at 1'22"" atmosphere, at 1'30"" violin tuning to piano - 1972 (1C11,reprocessed)",116,Crowds: Interior: Applause,ECD086,Interiors - Concert Halls,19,1,44100,2,120.57333333333334
+635,07057020.wav,"Applause, at 0'19"" quiet - 1972 (1C11,reprocessed)",26,Crowds: Interior: Applause,ECD086,Interiors - Concert Halls,20,1,44100,2,31.96
+636,07057024.wav,"Laughter and applause at LE show - 1981 (1C15,reprocessed)",9,Crowds: Interior: Applause,ECD086,Interiors - Concert Halls,24,1,44100,2,15.066666666666666
+637,07057025.wav,"Laughter and applause at LE show - 1981 (1C15,reprocessed)",23,Crowds: Interior: Applause,ECD086,Interiors - Concert Halls,25,1,44100,2,28.933333333333334
+639,07057027.wav,"Applause at LE show - 1981 (1C15,reprocessed)",26,Crowds: Interior: Applause,ECD086,Interiors - Concert Halls,27,1,44100,2,26.44
+640,07057028.wav,"Noisy crowd, some footsteps - distant band plays National Anthem at 1'05.,mid-distant perspective (rec. Silver Jubilee - June 1977) (2C8, reprocessed)",113,Crowds: Exterior,ECD080,Exterior Crowds 2,1,1,44100,2,118.72
+641,07057029.wav,"Subdued crowds as horseguards pass - mid-distant perspective (rec. Silver Jubilee - June 1977) (2C8,reprocessed)",72,Crowds: Exterior,ECD080,Exterior Crowds 2,2,1,44100,2,77.44
+642,07057030.wav,"Large subdued crowd - mid-distant perspective (rec. Silver Jubilee - June 1977) (2C8,reprocessed)",172,Crowds: Exterior,ECD080,Exterior Crowds 2,3,1,44100,2,177.76
+643,07057031.wav,"Subdued crowd - close perspective (rec. Silver Jubilee - June 1977) (2C8,reprocessed)",210,Crowds: Exterior,ECD080,Exterior Crowds 2,4,1,44100,2,215.64
+644,07057032.wav,"Two cheers - mid-distant perspective (rec. Silver Jubilee - June 1977) (2C8,reprocessed)",8,Crowds: Exterior: Cheering,ECD080,Exterior Crowds 2,5,1,44100,2,14.026666666666667
+645,07057033.wav,"Cheers, whistles and applause - mid-distant perspective (rec. Silver Jubilee - June 1977) (2C8,reprocessed)",75,Crowds: Exterior: Cheering,ECD080,Exterior Crowds 2,6,1,44100,2,80.6
+646,07057034.wav,"Cheer and applause - mid-distant perspective (rec. Silver Jubilee - June 1977) (2C8,reprocessed)",19,Crowds: Exterior: Cheering,ECD080,Exterior Crowds 2,7,1,44100,2,23.533333333333335
+647,07057035.wav,"Chant of ""We want the Queen"" (rec. Silver Jubilee - June 1977) (2C8,reprocessed)",18,London: Buckingham Palace,ECD080,Exterior Crowds 2,8,1,44100,2,23.506666666666668
+648,07057036.wav,"Large crowd outside St Paul's Cathedral at wedding of HRH Prince of Wales - mid-distant perspective - July 1981 (2C9,reprocessed)",357,Weddings,ECD080,Exterior Crowds 2,9,1,44100,2,362.49333333333334
+649,07057037.wav,"Crowds outside St.Paul's Cathedral at the wedding of The Prince of Wales - orders shouted, carriage procession arrives, cheers - July 1981 (2C1,reprocessed)",52,Crowds: Exterior: Cheering,ECD080,Exterior Crowds 2,10,1,44100,2,57.53333333333333
+650,07057038.wav,"Orders shouted, carriage procession arrives, cheers - July 1981 (2C9, reprocessed)",102,Crowds: Exterior: Cheering,ECD080,Exterior Crowds 2,11,1,44100,2,107.57333333333334
+651,07057039.wav,"Orders shouted, small cheer - July 1981 (2C9,reprocessed)",33,Crowds: Exterior: Cheering,ECD080,Exterior Crowds 2,12,1,44100,2,38.96
+652,07057040.wav,"Build up of cheering and whistling - July 1981 (2C9,reprocessed)",60,Crowds: Exterior: Cheering,ECD080,Exterior Crowds 2,13,1,44100,2,65.8
+653,07057041.wav,"Large cheer with whistles - July 1981 (2C9,reprocessed)",45,Crowds: Exterior: Cheering,ECD080,Exterior Crowds 2,14,1,44100,2,50.70666666666666
+654,07057042.wav,"Large cheer with whistles - July 1981 (2C9, reprocessed)",28,Crowds: Exterior: Cheering,ECD080,Exterior Crowds 2,15,1,44100,2,33.733333333333334
+655,07057044.wav,"Applause of mixed outdoor crowd with atmosphere at Henley Regatta - 1975 (2C7, reprocessed)",26,Crowds: Exterior,ECD080,Exterior Crowds 2,17,1,44100,2,31.466666666666665
+656,07057045.wav,"Mixed excited chatter with laughter and occasional distinct speech, constant background  - 1967 (40C, reprocessed)",240,Crowds: Exterior: Chatter,ECD080,Exterior Crowds 2,18,1,44100,2,245.62666666666667
+657,07057046.wav,"Girls screaming in street, with much movement (running feet) and general excitement - 1966 (63C, reprocessed)",217,Girls,ECD080,Exterior Crowds 2,19,1,44100,2,222.93333333333334
+658,07057047.wav,"Girls screaming in street, with traffic and horns - 1966 (63C, processed)",92,Girls,ECD080,Exterior Crowds 2,20,1,44100,2,96.93333333333334
+659,07057048.wav,"Large crowd cheers continuously  - 1966 (94A, reprocessed)",151,Crowds: Exterior: Cheering,ECD080,Exterior Crowds 2,21,1,44100,2,156.90666666666667
+660,07057049.wav,"Berwick Street Market, London -  with footsteps, chatter, coins and tills - 1972 (2C1, reprocessed)",249,London,ECD080,Exterior Crowds 2,22,1,44100,2,253.8
+661,07057050.wav,"Berwick Street Market, London - atmosphere with speech, coins and footsteps - 1981 (2C2, reprocessed)",362,London,ECD080,Exterior Crowds 2,23,1,44100,2,367.6
+662,07057051.wav,"Covent Garden Market, London - lorries arriving, voices and movement (1M1, reprocessed)",287,London,ECD080,Exterior Crowds 2,24,1,44100,2,292.96
+663,07057052.wav,"London street market - 1976 (1M3, reprocessed)",362,London,ECD080,Exterior Crowds 2,25,1,44100,2,367.3066666666667
+664,07057053.wav,"Aylesbury market, Buckinghamshire - atmosphere with speech, traffic and footsteps - 1981 (2C2, reprocessed)",362,Markets,ECD080,Exterior Crowds 2,26,1,44100,2,367.02666666666664
+665,07057054.wav,"Devon market - 1976 (1M3, reprocessed)",361,Markets: Devon,ECD080,Exterior Crowds 2,27,1,44100,2,361.7733333333333
+666,07057083.wav,Audience in auditorium of provincial theatre (before perfomance),153,Crowds: Interior,ECD112,Theatre,29,1,44100,2,157.6
+667,07057084.wav,Applause (short burst),11,Crowds: Interior: Applause,ECD112,Theatre,30,1,44100,2,15.933333333333334
+668,07057085.wav,Applause (longer burst),23,Crowds: Interior: Applause,ECD112,Theatre,31,1,44100,2,28.0
+669,07057086.wav,Audience gathering in foyer.,101,Crowds: Interior: Halls,ECD112,Theatre,32,1,44100,2,110.29333333333334
+670,07057087.wav,Cinema audience during interval.,249,Crowds: Interior: Halls,ECD112,Theatre,33,1,44100,2,251.26666666666668
+671,07058130.wav,Outdoor classical concert - crowd presence before performance (2 bursts of applause for performers),96,Applause: Exterior,ECD069,Bits & Pieces,9,1,44100,2,100.93333333333334
+672,07058137.wav,Small crowd laughing at puppet show (Denmark),12,Crowds: Exterior,ECD069,Bits & Pieces,16,1,44100,2,17.066666666666666
+673,07058138.wav,Close crowds at running event,127,Crowds: Exterior,ECD069,Bits & Pieces,17,1,44100,2,131.13333333333333
+674,07058139.wav,"Riot in Belfast - with breaking glass, rubber bullets, distant cries and chants",103,Crowds: Exterior: Rioting,ECD069,Bits & Pieces,18,1,44100,2,107.46666666666667
+675,07058140.wav,Riot in Belfast - more subdued,150,Crowds: Exterior: Rioting,ECD069,Bits & Pieces,19,1,44100,2,154.53333333333333
+676,07058141.wav,"Nazi Germany - large German crowd cheering (500T, reprocessed)",58,Crowds: Exterior: Cheering,ECD069,Bits & Pieces,20,1,44100,2,62.77333333333333
+677,07058142.wav,"Nazi Germany - large German crowd cheering and shouting 'Sieg Heil' (500T, reprocessed)",174,Crowds: Exterior: Cheering,ECD069,Bits & Pieces,21,1,44100,2,179.26666666666668
+678,07058143.wav,"Nazi Germany - large German crowd shouting 'Sieg Heil' (500T, reprocessed)",68,Crowds: Exterior: Cheering,ECD069,Bits & Pieces,22,1,44100,2,73.89333333333333
+679,07058144.wav,"Nazi Germany - large German crowd cheering (500T, reprocessed)",55,Crowds: Exterior: Cheering,ECD069,Bits & Pieces,23,1,44100,2,59.53333333333333
+680,07058145.wav,"Nazi Germany - large German crowd cheering and shouting slogans (500T, reprocessed)",64,Crowds: Exterior: Cheering,ECD069,Bits & Pieces,24,1,44100,2,69.64
+681,07060001.wav,"Atmosphere before ships launch, close perspective - occas. hammering in background - 1985 (3S23)",135,Crowds: Exterior,ECD079,Exterior Crowds 1,1,1,44100,2,203.22666666666666
+682,07060003.wav,"Large restless crowd builds up - occasional vendors shouting wares (recorded at outdoor sports meeting, suitable for general purpose use) - 1975 (257, reprocessed)",301,Crowds: Exterior,ECD079,Exterior Crowds 1,3,1,44100,2,307.4533333333333
+683,07060004.wav,"Large expectant crowd with birdsong - wide perspective - 1977 (2C4,reprocessed)",270,Birds,ECD079,Exterior Crowds 1,4,1,44100,2,294.6533333333333
+684,07060005.wav,"Expectant crowd background with birdsong, footsteps on pavement and speech - 1977 (2C4, reprocessed)",288,Birds,ECD079,Exterior Crowds 1,5,1,44100,2,294.28
+685,07060006.wav,"Large moving crowd with footsteps and voices - 1982 (2C10, reprocessed)",302,Crowds: Exterior,ECD079,Exterior Crowds 1,6,1,44100,2,306.52
+686,07060007.wav,"Crowds in Paternoster Square, London, with footsteps and speech - 1972 (2C1,reprocessed)",203,Crowds: Exterior,ECD079,Exterior Crowds 1,7,1,44100,2,208.52
+687,07060008.wav,"Mixed outdoor crowd at fete, with children and adults - distant birdsong and traffic - 1975 (2C7, reprocessed)",304,Children: Playing,ECD079,Exterior Crowds 1,8,1,44100,2,309.58666666666664
+688,07060009.wav,Mixed crowd with children at London Zoo (no animal sounds) - 1974 (2C3),241,Children: Playing,ECD079,Exterior Crowds 1,9,1,44100,2,246.92
+689,07060010.wav,"Crowd with children at London Zoo, with sea lions at feeding time - 1974 (2C3, reprocessed)",241,Children: Playing,ECD079,Exterior Crowds 1,10,1,44100,2,247.45333333333335
+690,07060011.wav,"Mixed general chatter - close perspective - 1966 (40A, reprocessed)",181,Crowds: Exterior: Chatter,ECD079,Exterior Crowds 1,11,1,44100,2,187.25333333333333
+691,07060012.wav,"Mixed cheerful chatter and laughter - 1966 (40A, reprocessed)",181,Crowds: Exterior: Chatter,ECD079,Exterior Crowds 1,12,1,44100,2,187.02666666666667
+692,07060013.wav,"Mixed chatter and footsteps on gravel - 1966 (40A, reprocessed)",180,Crowds: Exterior: Chatter,ECD079,Exterior Crowds 1,13,1,44100,2,187.14666666666668
+693,07060014.wav,"Mixed chatter and footsteps on gravel, animated ,1966 (40A,reprocessed)",147,Crowds: Exterior: Chatter,ECD079,Exterior Crowds 1,14,1,44100,2,153.49333333333334
+694,07060015.wav,"Group of 16-19 year old boys talking, occasional pauses, and footsteps on gravel - 1968 (40E, reprocessed)",175,Boys,ECD079,Exterior Crowds 1,15,1,44100,2,180.34666666666666
+695,07060016.wav,"Group of 16-19 year old boys talking, occasional laughter - 1968 (40E,reprocessed)",182,Boys,ECD079,Exterior Crowds 1,16,1,44100,2,187.76
+696,07060017.wav,"Group of boys assembling, with speech, laughter and footsteps on gravel - 1968 (40E,reprocessed)",183,Boys,ECD079,Exterior Crowds 1,17,1,44100,2,188.54666666666665
+697,07060018.wav,"Angry, jeering crowd - close perspective crowd with horse-drawn vehicle - 1972 (2C1, reprocessed)",229,Crowds: Exterior: Jeers,ECD079,Exterior Crowds 1,18,1,44100,2,234.52
+698,07060019.wav,"Crowd shouting, screaming, laughing - close perspective - 1972 (2C1, reprocessed)",132,Crowds: Exterior: Laughter,ECD079,Exterior Crowds 1,19,1,44100,2,136.98666666666668
+699,07060020.wav,"Small town market square - footsteps, voices, street sweeping, traffic (rec. Wisbech, Cambridge) - 1979 (2C6, reprocessed) (technical note - for use at low level)",246,Crowds: Exterior,ECD079,Exterior Crowds 1,20,1,44100,2,247.0
+700,07061002.wav,"Crowds on Nyhavn Wharf, Copenhagen",292,Crowds: Exterior,ECD068,Scandinavia 2,2,1,44100,2,292.50666666666666
+701,07061029.wav,Small Lap crowd herding reindeer,27,Finland,ECD068,Scandinavia 2,29,1,44100,2,26.96
+702,07061099.wav,Germany - Tourist queueing at historical site,284,Germany: Crowds,ECD109,Germany - Atmospheres,7,1,44100,2,288.37333333333333
+703,07062109.wav,Mixed crowd in hotel foyer - 1982 (1C28),300,Foyers,ECD088,Interiors - Various 1,16,1,44100,2,305.58666666666664
+704,07063034.wav,"Wimbledon 1997 - Queue outside All England club, chatter, passing traffic",240,Crowds: Exterior: Chatter,ECD123,Wimbledon 1997,1,1,44100,2,245.12
+705,07063035.wav,Wimbledon 1997 - Gate 3 - crowd let in & searched - taxis arriving,240,Crowds: Exterior: Chatter,ECD123,Wimbledon 1997,2,1,44100,2,243.26666666666668
+706,07063037.wav,Wimbledon 1997 - General atmos. - wide perspective (recorded high from Broadcast Centre),240,Crowds: Exterior,ECD123,Wimbledon 1997,4,1,44100,2,243.30666666666667
+707,07063038.wav,Wimbledon 1997 - Group of fans excited at seeing player.,60,Crowds: Exterior: Chatter,ECD123,Wimbledon 1997,5,1,44100,2,63.24
+708,07063039.wav,"Wimbledon 1997 - The Large Screen - crowds watching Court One, some chatter",60,Crowds: Exterior: Chatter,ECD123,Wimbledon 1997,6,1,44100,2,240.26666666666668
+709,07063040.wav,"Wimbledon 1997 - Gangway around Court one, some tennis heard.",240,Crowds: Exterior,ECD123,Wimbledon 1997,7,1,44100,2,243.30666666666667
+710,07063044.wav,"Wimbledon 1997 - walkway between outside courts, tennis heard.",238,Crowds: Exterior,ECD123,Wimbledon 1997,11,1,44100,2,241.24
+711,07063048.wav,"Wimbledon 1997 - Outdoor Bar - crowds, distant commentary (recorded on the tea lawn)",260,Bars,ECD123,Wimbledon 1997,15,1,44100,2,263.06666666666666
+712,07063050.wav,"Wimbledon 1997 - Tea room, indoors with waiters.",253,Crowds: Interior: Chatter,ECD123,Wimbledon 1997,17,1,44100,2,256.24
+713,07063051.wav,"Wimbledon 1997 - Spectators leaving, crowd atmosphere.",267,Crowds: Exterior,ECD123,Wimbledon 1997,18,1,44100,2,268.4533333333333
+714,07063066.wav,"Cross channel ferry, passenger lounge - hum of engines, light chatter and the noise of rustling newspapers and teacups.",180,Crowds: Interior: Chatter,ECD124,France,1,1,44100,2,184.48
+715,07063085.wav,"Tourist site near Perigord - tourists waiting to visit caves, recorded under trees in the rain.",120,Crowds: Exterior,ECD124,France,20,1,44100,2,123.10666666666667
+716,07064031.wav,"Playhouse Theatre - large audience,English and French,chatter, close perspective, busy chatter - 1980 (1C60,reprocessed)",300,Crowds: Interior: Chatter,ECD087,Interiors - Theatres and Halls,1,1,44100,2,309.0933333333333
+717,07064032.wav,"Playhouse Theatre - large audience,applause - 1980 (1C60,reprocessed)",9,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,2,1,44100,2,14.84
+718,07064033.wav,"Laughter and applause - 1980 (1C60,reprocessed)",8,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,3,1,44100,2,13.626666666666667
+719,07064034.wav,"Laughter - 1980 (1C60,reprocessed)",7,Crowds: Interior: Laughter,ECD087,Interiors - Theatres and Halls,4,1,44100,2,12.866666666666667
+720,07064035.wav,"Laughter and applause - 1980 (1C60,reprocessed)",11,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,5,1,44100,2,17.373333333333335
+721,07064036.wav,"Applause - 1980 (1C60,reprocessed)",8,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,6,1,44100,2,14.266666666666667
+722,07064037.wav,"Applause - 1980 (1C60,reprocessed)",8,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,7,1,44100,2,13.8
+723,07064040.wav,"Old Vic Theatre - large audience,applause at end of act, interval chatter - 1980 (1C13,reprocessed)",60,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,10,1,44100,2,66.49333333333334
+727,07064044.wav,"Laughter - 1980 (1C13,reprocessed)",5,Crowds: Interior: Laughter,ECD087,Interiors - Theatres and Halls,14,1,44100,2,11.76
+728,07064045.wav,"Final applause, audience leaves theatre - 1980 (1C13,reprocessed)",263,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,15,1,44100,2,269.3333333333333
+729,07064048.wav,"Teenagers stamping, booing and whistling crowd in a stadium - May '1966 (63C,reprocessed)",113,Crowds: Interior: Boos,ECD087,Interiors - Theatres and Halls,18,1,44100,2,118.8
+730,07064049.wav,"Applause at a Political Party Conference - 1982 (1C28,reprocessed)",14,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,19,1,44100,2,19.933333333333334
+731,07064050.wav,"Applause at a Political Party Conference - 1982 (1C28,reprocessed)",8,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,20,1,44100,2,14.2
+732,07064051.wav,"Applause at a Political Party Conference - 1982 (1C28,reprocessed)",10,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,21,1,44100,2,15.626666666666667
+733,07064052.wav,"Applause at a Political Party Conference - 1982 (1C28,reprocessed)",10,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,22,1,44100,2,15.4
+734,07064053.wav,"Applause at a Political Party Conference - 1982 (1C28,reprocessed)",16,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,23,1,44100,2,21.106666666666666
+735,07064054.wav,"Applause at a Political Party Conference - 1982 (1C28,reprocessed)",17,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,24,1,44100,2,23.333333333333332
+736,07064055.wav,"Applause from a small group of people - 1966 (63A,reprocessed)",10,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,25,1,44100,2,16.333333333333332
+737,07064056.wav,"Applause from a small group of people (twice) - 1966 (63A,reprocessed)",30,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,26,1,44100,2,36.29333333333334
+738,07064057.wav,"Applause from a small group of people (twice) - 1966 (63A,reprocessed)",18,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,27,1,44100,2,24.533333333333335
+739,07064058.wav,"Applause from a small group of people - 1966 (63A,reprocessed)",19,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,28,1,44100,2,25.573333333333334
+740,07064059.wav,"Applause from 30 people - 1966 (63A,reprocessed)",8,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,29,1,44100,2,14.493333333333334
+741,07064060.wav,"Applause from 30 people - 1966 (63A,reprocessed)",13,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,30,1,44100,2,19.906666666666666
+742,07064061.wav,"Applause from 50 people - 1966 (63A,reprocessed)",12,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,31,1,44100,2,18.626666666666665
+743,07064062.wav,"Applause from 50 people - 1966 (63A,reprocessed)",10,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,32,1,44100,2,15.306666666666667
+744,07064063.wav,"Applause from 50 people - 1966 (63A,reprocessed)",10,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,33,1,44100,2,15.826666666666666
+745,07064064.wav,"Applause from 50 people - 1966 (63A,reprocessed)",12,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,34,1,44100,2,18.733333333333334
+746,07064065.wav,"Applause from 250 people - 1966 (63A,reprocessed)",11,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,35,1,44100,2,17.2
+747,07064066.wav,"Applause from 250 people - 1966 (63A,reprocessed)",18,Crowds: Interior: Applause,ECD087,Interiors - Theatres and Halls,36,1,44100,2,24.30666666666667
+748,07064070.wav,"Crowds in large entrance hall with turnstiles - 1983 (1C29,reprocessed)",280,Halls,ECD087,Interiors - Theatres and Halls,40,1,44100,2,285.26666666666665
+749,07064071.wav,"Crowds in a large entrance hall, with turnstiles at close perspective - 1983 (1C29,reprocessed)",270,Halls,ECD087,Interiors - Theatres and Halls,41,1,44100,2,275.46666666666664
+750,07064072.wav,Crowd atmosphere in an exhibition hall - 1974,297,Exhibition Halls,ECD087,Interiors - Theatres and Halls,42,1,44100,2,301.6666666666667
+751,07064074.wav,"Crowd arrives for meeting in hall - 1981 (1C24,reprocessed)",315,Halls,ECD087,Interiors - Theatres and Halls,44,1,44100,2,321.44
+752,07065019.wav,"Westminster Abbey, London, crowd atmosphere with voices and footsteps - 1972 (1C4,reprocessed)",307,Abbeys,ECD090,Ecclesiastical Effects 1,2,1,44100,2,307.6666666666667
+753,07065020.wav,"Buckfast Abbey, Devon, subdued crowd in abbey - 1982 (1C27,reprocessed)",302,Abbeys,ECD090,Ecclesiastical Effects 1,3,1,44100,2,302.53333333333336
+754,07065023.wav,"Church atmosphere at Stratford-on-Avon with crowd - 1972 (1C4,reprocessed)",306,Churches,ECD090,Ecclesiastical Effects 1,6,1,44100,2,307.17333333333335
+755,07065064.wav,"Busy lunchtime in a public house in the West End of London - 1972 (1R1,reprocessed)",356,Public Houses: Crowds,ECD084,Interiors - Pubs and Clubs,1,1,44100,2,357.48
+756,07065065.wav,"Atmosphere in a public house in the City of London, with ventilation hum - 1972 (1R1,reprocessed)",360,Public Houses: Crowds,ECD084,Interiors - Pubs and Clubs,2,1,44100,2,361.73333333333335
+757,07065066.wav,"Mixed chatter in a busy public house - 1975 (1R5,reprocessed)",360,Public Houses: Crowds,ECD084,Interiors - Pubs and Clubs,3,1,44100,2,361.62666666666667
+758,07065067.wav,"Atmosphere in a busy Cotswold pub - 1974 (1R6,reprocessed)",365,Public Houses: Crowds,ECD084,Interiors - Pubs and Clubs,4,1,44100,2,367.1066666666667
+759,07065068.wav,"Atmosphere in a large club bar (recorded at Twickenham Rugby Union football club bar) - 1975 (1R5,reprocessed)",360,Public Houses: Crowds,ECD084,Interiors - Pubs and Clubs,5,1,44100,2,361.28
+760,07065069.wav,"Sports club bar, atmosphere and mixed chatter - Nov '1979 (1C19,reprocessed)",359,Crowds: Interior: Chatter,ECD084,Interiors - Pubs and Clubs,6,1,44100,2,360.18666666666667
+761,07065072.wav,"Club atmosphere, busy mixed chatter, close perspective - 1981 (1C25,reprocessed)",366,Crowds: Interior: Chatter,ECD084,Interiors - Pubs and Clubs,9,1,44100,2,365.62666666666667
+762,07065073.wav,"Club atmosphere, busy mixed chatter at mealtime (mid-distance) - 1981 (1C25,reprocessed)",362,Crowds: Interior: Chatter,ECD084,Interiors - Pubs and Clubs,10,1,44100,2,363.0933333333333
+763,07066005.wav,"Crowd in hamburger fast food store - 1982 (1C27,reprocessed)",299,Restaurants,ECD083,Interiors - Restaurants,5,1,44100,2,305.46666666666664
+764,07066013.wav,"Atmosphere in a crowded tea marquee - 1981 (1C23,reprocessed)",284,Tents,ECD083,Interiors - Restaurants,13,1,44100,2,290.0
+765,07066014.wav,"Mixed crowd in a busy tea tent - June '1980 (1R7,reprocessed)",301,Tents,ECD083,Interiors - Restaurants,14,1,44100,2,301.2
+766,07068042.wav,"Interior - crowded hall/foyer atmosphere (rec. Bucharest), unintelligible continuous conversation in large live accoustic.",310,Crowds: Interior,ECD142,Romania 2,2,1,44100,2,314.94666666666666
+767,07068075.wav,"Exterior - metro train ride, train arrives and stops, boarded, doors close, interior - not crowded some voices; travel two station stops - exterior - exit onto quiet platform.",354,Romania,ECD141,Romania 1,13,1,44100,2,356.16
+768,07070181.wav,"Thai Boxing Match, interior, large crowd watching whole round of boxing. (Recorded at the Lumpini Stadium, Bangkok.)",198,Sports: Boxing,ECD166,Thailand 1,1,1,44100,2,202.82
+769,07070208.wav,Crowded street (New Orleans),217,New Orleans,ECD121,America 2,3,1,44100,2,221.90666666666667
+770,07072151.wav,"General fairground atmosphere - Nov. '1980 (recorded Battersea Funfair) (5F1,reprocessed)",185,Crowds: Exterior,ECD082,Fairgrounds and The Circus,1,1,44100,2,191.96
+771,07072152.wav,"Crowd atmosphere with indistinct band in background - Jan '1980 (5F3,reprocessed)",300,Crowds: Exterior,ECD082,Fairgrounds and The Circus,2,1,44100,2,305.8666666666667
+772,07072154.wav,"Crowd atmosphere with steam roundabouts and indistinct music from steam organ - Aug '1966 (38A,reprocessed)",242,Crowds: Exterior,ECD082,Fairgrounds and The Circus,4,1,44100,2,246.8
+773,07072155.wav,"Atmosphere in an amusement arcade at a fairground with background fairground atmosphere - Jan '1980 (5F3,reprocessed)",276,Crowds: Interior,ECD082,Fairgrounds and The Circus,5,1,44100,2,281.7733333333333
+774,07072156.wav,"Amusement arcade atmosphere - Nov '1980 (recorded Battersea Funfair) (5F1,reprocessed) (tecnical note - to be used at low level)",227,Crowds: Interior,ECD082,Fairgrounds and The Circus,6,1,44100,2,233.46666666666667
+775,07072167.wav,"People shouting and screaming in the Rotor as the machine operates - July '1966 (38C,reprocessed)",145,Crowds: Exterior: Shouting,ECD082,Fairgrounds and The Circus,17,1,44100,2,152.86666666666667
+776,07072173.wav,"Big top crowd atmosphere, mainly indistinct speech with generator in background - Nov '1979 (1C20,reprocessed)",300,Circuses,ECD082,Fairgrounds and The Circus,23,1,44100,2,305.17333333333335
+777,07073001.wav,Crowd assembling ,374,Sports: Boxing: Amateur,ECD153,Boxing & Wrestling,1,1,44100,2,379.8
+778,07073011.wav,"Rowdy crowd with booing, etc. ",175,Sports: Boxing: Professional,ECD153,Boxing & Wrestling,11,1,44100,2,179.10666666666665
+779,07073024.wav,Animated crowd reaction ,284,Sports: Wrestling: Indoor,ECD153,Boxing & Wrestling,24,1,44100,2,287.49333333333334
+780,07074035.wav,American chatter; medium-sized crowd in dining hall of US Air Force base.,320,Crowds: Interior,ECD160,Restaurants & Kitchens,9,1,44100,2,324.24
+781,07074036.wav,American chatter; large mixed crowd in dining hall of US Air Force base.,320,Crowds: Interior,ECD160,Restaurants & Kitchens,10,1,44100,2,324.4266666666667
+782,07074145.wav,"Small group cheering - 1972 (7K, reprocessed)",17,Crowds: Comedy,ECD095,Comedy 2,53,1,44100,2,21.093333333333334
+783,07074146.wav,"Small group, half-hearted hurrahs - 1967 (7E, reprocessed)",17,Crowds: Comedy,ECD095,Comedy 2,54,1,44100,2,21.04
+784,07074147.wav,"Mixed group booing and bleating - 1967 (7E, reprocessed)",56,Crowds: Comedy,ECD095,Comedy 2,55,1,44100,2,60.0
+785,07074149.wav,"English club chatter - 1967 (7E, reprocessed)",51,Crowds: Comedy,ECD095,Comedy 2,57,1,44100,2,55.4
+786,07074150.wav,"Crowd panic and rush for exits - 1967 (7E, reprocessed)",18,Crowds: Comedy,ECD095,Comedy 2,58,1,44100,2,21.826666666666668
+787,07074151.wav,"Crowd panics - 1968 (7H, reprocessed)",19,Crowds: Comedy,ECD095,Comedy 2,59,1,44100,2,23.506666666666668
+788,07074152.wav,"Busy English market - 1967 (7E, reprocessed)",69,Crowds: Comedy,ECD095,Comedy 2,60,1,44100,2,72.73333333333333
+789,07074153.wav,"Small crowd gasps - 1969 (169C, reprocessed)",8,Crowds: Comedy,ECD095,Comedy 2,61,1,44100,2,12.266666666666667
+790,07074191.wav,"Crowds and manual cash registers - Woolworths - 1975 (1C26,reprocessed)",306,Cash Registers,ECD085,Interiors - Shops and Cash Registers,3,1,44100,2,311.1066666666667
+791,07075002.wav,Rowdy crowd at boxing match with occasional booing.,184,Sports: Boxing: Professional,EC96D,Professional Boxing,2,1,44100,2,184.35102040816327
+792,07075033.wav,Animated crowd reaction at a wrestling match.,302,Wrestling,EC96J,Indoor Wrestling,2,1,44100,2,302.93532879818594
